@@ -1,0 +1,1 @@
+<table class="form-table lp-metabox__table"></table>
