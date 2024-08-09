@@ -3133,7 +3133,7 @@ button.vc_btn-danger .badge {
   box-shadow: none;
 }
 .vc_modal-header .vc_close .vc_icon {
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/fe/close_panel.png) center center;
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/fe/close_panel.png) center center;
 }
 .vc_modal-header .vc_minimize {
   margin-top: 2px;
@@ -3142,7 +3142,7 @@ button.vc_btn-danger .badge {
   display: block;
 }
 .vc_modal-header .vc_minimize .vc_icon {
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/fe/modal_minimize.png) center center;
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/fe/modal_minimize.png) center center;
 }
 .vc_modal-header .vc_transparent {
   margin-top: 2px;
@@ -3151,7 +3151,7 @@ button.vc_btn-danger .badge {
   display: block;
 }
 .vc_modal-header .vc_transparent .vc_icon {
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/fe/eye_ico.png) center center no-repeat;
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/fe/eye_ico.png) center center no-repeat;
 }
 .vc_modal-title {
   margin: 0;
@@ -3530,7 +3530,7 @@ button.vc_btn-danger .badge {
   box-shadow: none;
 }
 .vc_panel-heading .vc_close .vc_icon {
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/fe/close_panel.png) center center;
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/fe/close_panel.png) center center;
 }
 .vc_panel-heading .vc_minimize {
   margin-top: 2px;
@@ -3539,7 +3539,7 @@ button.vc_btn-danger .badge {
   display: block;
 }
 .vc_panel-heading .vc_minimize .vc_icon {
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/fe/modal_minimize.png) center center;
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/fe/modal_minimize.png) center center;
 }
 .vc_panel-heading .vc_transparent {
   margin-top: 2px;
@@ -3548,7 +3548,7 @@ button.vc_btn-danger .badge {
   display: block;
 }
 .vc_panel-heading .vc_transparent .vc_icon {
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/fe/eye_ico.png) center center no-repeat;
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/fe/eye_ico.png) center center no-repeat;
 }
 .vc_panel-footer {
   padding: 10px 15px;
@@ -3825,7 +3825,7 @@ button.vc_btn-danger .badge {
   z-index: 50021;
   width: 100%;
   height: 100%;
-  background: #fff url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/logo/wpb-logo.svg) center center no-repeat;
+  background: #fff url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/logo/wpb-logo.svg) center center no-repeat;
   background-size: 72px;
   opacity: 0.95;
 }
@@ -3953,7 +3953,7 @@ button.vc_btn-danger .badge {
   display: block;
   height: 16px;
   width: 16px;
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/loaders/spinner-light.svg) 50% 50% no-repeat;
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/loaders/spinner-light.svg) 50% 50% no-repeat;
   background-size: contain;
   position: absolute;
   left: 50%;
@@ -3966,7 +3966,7 @@ button.vc_btn-danger .badge {
   width: 32px;
 }
 .vc_ui-wp-spinner.vc_ui-wp-spinner-dark::before {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/loaders/spinner.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/loaders/spinner.svg);
 }
 @keyframes vc_ui-wp-spinner-animation {
   from {
@@ -4001,7 +4001,7 @@ button.vc_btn-danger .badge {
   max-height: 250px;
 }
 .media-modal .attachment-info .thumbnail.loading::before {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/spinner.gif) no-repeat center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/spinner.gif) no-repeat center;
   position: absolute;
   content: "";
   top: 0;
@@ -4030,7 +4030,7 @@ button.vc_btn-danger .badge {
   content: "";
   width: 16px;
   height: 16px;
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/spinner.gif);
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/spinner.gif);
   display: inline-block;
   margin-left: -40px;
   position: absolute;
@@ -4039,13 +4039,13 @@ button.vc_btn-danger .badge {
 }
 @font-face {
   font-family: vcpb-plugin-icons;
-  src: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.eot?onqajd);
-  src: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.eot?onqajd#iefix)
+  src: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.eot?onqajd);
+  src: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.eot?onqajd#iefix)
       format("embedded-opentype"),
-    url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.ttf?onqajd)
+    url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.ttf?onqajd)
       format("truetype"),
-    url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.woff?onqajd) format("woff"),
-    url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.svg?onqajd#vcpb-plugin-icons)
+    url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.woff?onqajd) format("woff"),
+    url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons_v3/fonts/vcpb-plugin-icons.svg?onqajd#vcpb-plugin-icons)
       format("svg");
   font-weight: 400;
   font-style: normal;
@@ -5771,7 +5771,7 @@ a.list-group-item.active > .vc_badge {
   top: 0;
 }
 .vc_element-icon {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/logo/wpb-logo.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/logo/wpb-logo.svg);
   background-size: 32px;
   background-position: 0 0;
   background-repeat: no-repeat;
@@ -5784,188 +5784,188 @@ a.list-group-item.active > .vc_badge {
   height: 32px;
 }
 .vc_element-icon[data-is-container="true"] {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-misc.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-misc.svg);
 }
 .icon-wpb-application-icon-large {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-post-grid.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-post-grid.svg);
 }
 .icon-wpb-application-plus {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-google-plus.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-google-plus.svg);
 }
 .icon-wpb-balloon-facebook-left {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-facebook.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-facebook.svg);
 }
 .icon-wpb-balloon-twitter-left {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-twitter.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-twitter.svg);
 }
 .icon-wpb-film-youtube {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-video.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-video.svg);
 }
 .icon-wpb-images-stack {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-image-gallery.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-image-gallery.svg);
 }
 .icon-wpb-information-white {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-message-box.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-message-box.svg);
 }
 .icon-wpb-layer-shape-text {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-text-block.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-text-block.svg);
 }
 .icon-wpb-layout_sidebar {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-widget-sidebar.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-widget-sidebar.svg);
 }
 .icon-wpb-map-pin {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-google-maps.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-google-maps.svg);
 }
 .icon-wpb-slideshow {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-posts-slider-2.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-posts-slider-2.svg);
 }
 .icon-wpb-toggle-small-expand {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-faq-toggle.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-faq-toggle.svg);
 }
 .icon-wpb-ui-accordion,
 .icon-wpb-ui-accordion[data-is-container="true"] {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-accordion.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-accordion.svg);
 }
 .icon-wpb-ui-button {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-button.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-button.svg);
 }
 .icon-wpb-ui-separator-label {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-separator-with-text.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-separator-with-text.svg);
 }
 .icon-wpb-ui-separator {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-separator.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-separator.svg);
 }
 .icon-wpb-ui-tab-content,
 .icon-wpb-ui-tab-content[data-is-container="true"] {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-tabs.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-tabs.svg);
 }
 .icon-wpb-ui-tab-content-vertical,
 .icon-wpb-ui-tab-content-vertical[data-is-container="true"] {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-tour.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-tour.svg);
 }
 .icon-wpb-ui-pageable,
 .icon-wpb-ui-pageable[data-is-container="true"] {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-pageable-container.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-pageable-container.svg);
 }
 .icon-wpb-tta-toggle[data-is-container="true"] {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-tta-toggle.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-tta-toggle.svg);
 }
 .icon-wpb-pinterest {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-pinterest.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-pinterest.svg);
 }
 .icon-wpb-tweetme {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-twitter.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-twitter.svg);
 }
 .icon-wpb-single-image {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-single-image.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-single-image.svg);
 }
 .icon-wpb-call-to-action {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-cta.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-cta.svg);
 }
 .icon-wpb-pricing-table {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-pricing-table.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-pricing-table.svg);
 }
 .icon-wpb-raw-html {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-raw-html.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-raw-html.svg);
 }
 .icon-wpb-raw-javascript {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-raw-js.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-raw-js.svg);
 }
 .icon-wpb-flickr {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-flickr.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-flickr.svg);
 }
 .icon-wpb-graph {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-progress-bar.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-progress-bar.svg);
 }
 .icon-wpb-wp {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-wordpress.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-wordpress.svg);
 }
 .icon-wpb-vc_pie {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-pie-chart.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-pie-chart.svg);
 }
 .icon-wpb-images-carousel {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-image-carousel.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-image-carousel.svg);
 }
 .icon-wpb-vc_carousel {
   background-position: 0 -1088px;
 }
 .icon-wpb-row,
 .icon-wpb-row[data-is-container="true"] {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-row.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-row.svg);
 }
 .icon-wpb-ui-empty_space {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-empty-space.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-empty-space.svg);
 }
 .icon-wpb-atm {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-my-shortcode.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-my-shortcode.svg);
 }
 .icon-wpb-ui-custom_heading {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-google-fonts.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-google-fonts.svg);
 }
 .icon-wpb-woocommerce {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-woo-commerce.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-woo-commerce.svg);
 }
 .icon-wpb-ninjaforms {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-ninja-forms.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-ninja-forms.svg);
 }
 .icon-wpb-vc_icon {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-icon.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-icon.svg);
 }
 .vc_icon-vc-gitem-post-excerpt {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-excerpt.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-excerpt.svg);
 }
 .vc_icon-vc-gitem-image {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-single-image.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-single-image.svg);
 }
 .vc_icon-acf {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-acf.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-acf.svg);
 }
 .vc_icon-vc-gitem-post-date {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-post-date.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-post-date.svg);
 }
 .vc_icon-vc-gitem-post-meta {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-custom-fields.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-custom-fields.svg);
 }
 .vc_icon-vc-gitem-post-title {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-post-title.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-post-title.svg);
 }
 .vc_icon-vc-media-grid {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-media-grid.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-media-grid.svg);
 }
 .vc_icon-vc-masonry-media-grid {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-media-masonry-grid.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-media-masonry-grid.svg);
 }
 .vc_icon-vc-masonry-grid {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-post-masonry-grid.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-post-masonry-grid.svg);
 }
 .icon-wpb-vc-round-chart {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-doughnut-chart.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-doughnut-chart.svg);
 }
 .icon-wpb-vc-line-chart {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-line-chart.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-line-chart.svg);
 }
 .icon-wpb-ui-tta-section,
 .icon-wpb-ui-tta-section[data-is-container="true"] {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-accordion.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-accordion.svg);
 }
 .vc_icon-vc-gitem-post-author {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-post-author.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-post-author.svg);
 }
 .vc_icon-vc-gitem-post-categories {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-category.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-category.svg);
 }
 .vc_icon-vc-section,
 .vc_icon-vc-section[data-is-container="true"] {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-section.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-section.svg);
 }
 .vc_icon-vc-zigzag {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-separator-zig-zag.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-separator-zig-zag.svg);
 }
 .vc_icon-vc-hoverbox {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-hover-box.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-hover-box.svg);
 }
 .vc_icon-vc-gutenberg {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-gutenberg.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-gutenberg.svg);
 }
 .vc_add-element-container {
   max-height: 75vh;
@@ -6099,7 +6099,7 @@ a.list-group-item.active > .vc_badge {
   width: 190px;
   font-size: 12px;
   border: medium none;
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/search.png) no-repeat scroll 9px 6px #fff;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/search.png) no-repeat scroll 9px 6px #fff;
 }
 #vc_ui-panel-add-element {
   width: 80%;
@@ -6144,7 +6144,7 @@ a.list-group-item.active > .vc_badge {
   line-height: 20px;
   height: 55px;
   font-size: 0;
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/logo/wpb-logo-white.svg) center center
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/logo/wpb-logo-white.svg) center center
     no-repeat;
   background-size: 32px;
   display: block;
@@ -6166,7 +6166,7 @@ a.list-group-item.active > .vc_badge {
   background-image: none;
 }
 .vc_navbar.vc_navbar-frontend .vc_navbar-brand.vc_ui-wp-spinner::before {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/loaders/spinner-light.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/loaders/spinner-light.svg);
 }
 .vc_navbar .vc_last {
   padding-right: 25px;
@@ -6698,7 +6698,7 @@ a.list-group-item.active > .vc_badge {
   content: "";
   display: block;
   background: transparent
-    url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/editors/ui/vc_ui-icon-pixel/vc_ui-sprite.png) no-repeat;
+    url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/editors/ui/vc_ui-icon-pixel/vc_ui-sprite.png) no-repeat;
   line-height: 1;
   transform: translateY(-50%);
 }
@@ -6795,28 +6795,28 @@ a.list-group-item.active > .vc_badge {
 .vc_ui-icon-pixel-control-trash-dark::before {
   height: 17px;
   width: 16px;
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/editors/ui/vc_ui-icon-pixel/controls.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/editors/ui/vc_ui-icon-pixel/controls.png);
   background-position: -16px -64px;
   font-size: 17px;
 }
 .vc_ui-icon-pixel-control-search-dark::before {
   height: 14px;
   width: 14px;
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/editors/ui/vc_ui-icon-pixel/controls.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/editors/ui/vc_ui-icon-pixel/controls.png);
   background-position: -17px -97px;
   font-size: 14px;
 }
 .vc_ui-icon-pixel-control-edit-dark::before {
   height: 16px;
   width: 16px;
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/editors/ui/vc_ui-icon-pixel/controls.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/editors/ui/vc_ui-icon-pixel/controls.png);
   background-position: -16px -32px;
   font-size: 16px;
 }
 .vc_ui-icon-pixel-control-add-dark::before {
   height: 14px;
   width: 14px;
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/editors/ui/vc_ui-icon-pixel/controls.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/editors/ui/vc_ui-icon-pixel/controls.png);
   background-position: -17px -17px;
   font-size: 14px;
 }
@@ -6824,7 +6824,7 @@ a.list-group-item.active > .vc_badge {
 .vc_ui-template-list .vc_ui-preview-icon::before {
   height: 7px;
   width: 11px;
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/editors/ui/vc_ui-icon-pixel/controls.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/editors/ui/vc_ui-icon-pixel/controls.png);
   background-position: -18px -165px;
   font-size: 7px;
 }
@@ -6832,7 +6832,7 @@ a.list-group-item.active > .vc_badge {
 .vc_ui-template-list .vc_active .vc_ui-preview-icon::before {
   height: 7px;
   width: 11px;
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/editors/ui/vc_ui-icon-pixel/controls.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/editors/ui/vc_ui-icon-pixel/controls.png);
   background-position: -18px -181px;
   font-size: 7px;
 }
@@ -7096,7 +7096,7 @@ a.vc-active-post-custom-layout:where(:not(.wp-element-button)) {
   background-color: #afafaf;
 }
 .composer-switch .logo-icon {
-  background: #0772ce url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/logo/wpb-logo-white.svg) no-repeat center center;
+  background: #0772ce url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/logo/wpb-logo-white.svg) no-repeat center center;
   background-size: 16px;
   width: 16px;
   height: 28px;
@@ -7640,7 +7640,7 @@ select.btn-danger {
   .vc_content
   i {
   margin: 8px auto;
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/logo/wpb-logo.svg) center center no-repeat;
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/logo/wpb-logo.svg) center center no-repeat;
   background-size: 32px;
   display: block;
   width: 32px;
@@ -7704,7 +7704,7 @@ select.btn-danger {
   border: 1px solid #dfdfdf;
   padding: 10px;
   margin-top: 10px;
-  background: #f5f5f5 url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/rowbg.png);
+  background: #f5f5f5 url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/rowbg.png);
   position: relative;
   display: none;
 }
@@ -7741,7 +7741,7 @@ select.btn-danger {
   border-color: #fbeed5;
 }
 .wpb_vc_message .alert .messagebox_text {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/alert.png) no-repeat left center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/alert.png) no-repeat left center;
 }
 .wpb_vc_message .alert-info {
   color: #3a87ad;
@@ -7749,7 +7749,7 @@ select.btn-danger {
   border-color: #bce8f1;
 }
 .wpb_vc_message .alert-info .messagebox_text {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/info.png) no-repeat left center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/info.png) no-repeat left center;
 }
 .wpb_vc_message .alert-success {
   color: #468847;
@@ -7757,7 +7757,7 @@ select.btn-danger {
   border-color: #d6e9c6;
 }
 .wpb_vc_message .alert-success .messagebox_text {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/tick.png) no-repeat left center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/tick.png) no-repeat left center;
 }
 .wpb_vc_message .alert-danger {
   color: #b94a48;
@@ -7765,7 +7765,7 @@ select.btn-danger {
   border-color: #eed3d7;
 }
 .wpb_vc_message .alert-danger .messagebox_text {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/exclamation.png) no-repeat left center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/exclamation.png) no-repeat left center;
 }
 .vc_message-type .alert-success {
   background-color: #e6fdf8;
@@ -7899,7 +7899,7 @@ select.btn-danger {
   border: 1px solid #dfdfdf;
   padding: 10px;
   margin-top: 10px;
-  background: #f5f5f5 url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/rowbg.png);
+  background: #f5f5f5 url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/rowbg.png);
   position: relative;
 }
 .loop_params_holder:before {
@@ -8028,7 +8028,7 @@ select.btn-danger {
   background-color: #f8f8f8;
 }
 .vc_column-offset-table .vc_screen-size .vc_icon {
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/column_offset_screen_size.png) -21px 0 no-repeat;
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/column_offset_screen_size.png) -21px 0 no-repeat;
   width: 21px;
   height: 21px;
   display: inline-block;
@@ -8245,7 +8245,7 @@ select.btn-danger {
   width: 16px;
   height: 16px;
   display: inline-block;
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/controls.png) no-repeat -16px 0;
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/controls.png) no-repeat -16px 0;
   font-size: 0;
   line-height: 0;
 }
@@ -8314,112 +8314,112 @@ select.btn-danger {
   background-repeat: no-repeat;
 }
 .vc_pixel_icon-alert {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/alert.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/alert.png);
 }
 .vc_pixel_icon-info {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/info.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/info.png);
 }
 .vc_pixel_icon-tick {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/tick.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/tick.png);
 }
 .vc_pixel_icon-explanation {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/exclamation.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/exclamation.png);
 }
 .vc_pixel_icon-address_book {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/address-book.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/address-book.png);
 }
 .vc_pixel_icon-alarm_clock {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/alarm-clock.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/alarm-clock.png);
 }
 .vc_pixel_icon-anchor {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/anchor.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/anchor.png);
 }
 .vc_pixel_icon-application_image {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/application-image.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/application-image.png);
 }
 .vc_pixel_icon-arrow {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/arrow.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/arrow.png);
 }
 .vc_pixel_icon-asterisk {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/asterisk.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/asterisk.png);
 }
 .vc_pixel_icon-hammer {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/auction-hammer.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/auction-hammer.png);
 }
 .vc_pixel_icon-balloon {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/balloon.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/balloon.png);
 }
 .vc_pixel_icon-balloon_buzz {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/balloon-buzz.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/balloon-buzz.png);
 }
 .vc_pixel_icon-balloon_facebook {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/balloon-facebook.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/balloon-facebook.png);
 }
 .vc_pixel_icon-balloon_twitter {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/balloon-twitter.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/balloon-twitter.png);
 }
 .vc_pixel_icon-battery {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/battery-full.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/battery-full.png);
 }
 .vc_pixel_icon-binocular {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/binocular.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/binocular.png);
 }
 .vc_pixel_icon-document_excel {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-excel.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-excel.png);
 }
 .vc_pixel_icon-document_image {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-image.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-image.png);
 }
 .vc_pixel_icon-document_music {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-music.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-music.png);
 }
 .vc_pixel_icon-document_office {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-office.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-office.png);
 }
 .vc_pixel_icon-document_pdf {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-pdf.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-pdf.png);
 }
 .vc_pixel_icon-document_powerpoint {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-powerpoint.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-powerpoint.png);
 }
 .vc_pixel_icon-document_word {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-word.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-word.png);
 }
 .vc_pixel_icon-bookmark {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/bookmark.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/bookmark.png);
 }
 .vc_pixel_icon-camcorder {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/camcorder.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/camcorder.png);
 }
 .vc_pixel_icon-camera {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/camera.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/camera.png);
 }
 .vc_pixel_icon-chart {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/chart.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/chart.png);
 }
 .vc_pixel_icon-chart_pie {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/chart-pie.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/chart-pie.png);
 }
 .vc_pixel_icon-clock {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/clock.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/clock.png);
 }
 .vc_pixel_icon-play {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/control.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/control.png);
 }
 .vc_pixel_icon-fire {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/fire.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/fire.png);
 }
 .vc_pixel_icon-heart {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/heart.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/heart.png);
 }
 .vc_pixel_icon-mail {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/mail.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/mail.png);
 }
 .vc_pixel_icon-shield {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/plus-shield.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/plus-shield.png);
 }
 .vc_pixel_icon-video {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/video.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/video.png);
 }
 .vc_edit_form_elements .vc_edit-form-hidden-field-wrapper {
   padding-top: 0 !important;
@@ -8578,15 +8578,15 @@ button.vc_gutenberg-modal-update-button {
   display: inline-block;
   pointer-events: none;
   margin-top: 6px;
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/spinner.gif) no-repeat;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/spinner.gif) no-repeat;
   background-position-x: center;
   background-position-y: center;
 }
 .vc-spinner.vc-spinner-complete::before {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/tick.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/tick.png);
 }
 .vc-spinner.vc-spinner-failed::before {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/remove.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/remove.png);
 }
 .has-text-field.vc-link-wrapper #wp-link #search-panel .query-results {
   top: 215px;
@@ -9042,7 +9042,7 @@ button.vc_gutenberg-modal-update-button {
   height: 100px;
   width: 100px;
   display: inline-block;
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/logo/wpb-logo.svg) no-repeat center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/logo/wpb-logo.svg) no-repeat center;
   background-size: 72px;
 }
 .vc_ui-panel-template-download.vc_ui-hidden,
@@ -9505,7 +9505,7 @@ button.vc_gutenberg-modal-update-button {
   font-weight: 700;
 }
 #vc_teaser .vc_teaser-constructor .vc_teaser-control .vc_move {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/drag_handler.gif) no-repeat center center #fcf8e3;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/drag_handler.gif) no-repeat center center #fcf8e3;
   width: 20px;
   height: 18px;
   position: absolute;
@@ -9676,7 +9676,7 @@ button.vc_gutenberg-modal-update-button {
 .vc_control-btn .icon,
 .vc_control-btn .vc_icon {
   display: inline-block !important;
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/fe/controls.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/fe/controls.png);
   background-repeat: no-repeat;
   width: 16px;
   height: 16px;
@@ -10040,40 +10040,40 @@ button.vc_gutenberg-modal-update-button {
   text-align: center;
 }
 .vc_layout-switcher .l_1 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/1.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/1.gif);
 }
 .vc_layout-switcher .l_12_12 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/12_12.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/12_12.gif);
 }
 .vc_layout-switcher .l_23_13 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/23_13.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/23_13.gif);
 }
 .vc_layout-switcher .l_13_13_13 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/13_13_13.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/13_13_13.gif);
 }
 .vc_layout-switcher .l_13_23 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/13_23.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/13_23.gif);
 }
 .vc_layout-switcher .l_14_14_14_14 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/14_14_14_14.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/14_14_14_14.gif);
 }
 .vc_layout-switcher .l_14_34 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/14_34.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/14_34.gif);
 }
 .vc_layout-switcher .l_14_12_14 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/14_12_14.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/14_12_14.gif);
 }
 .vc_layout-switcher .l_56_16 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/56_16.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/56_16.gif);
 }
 .vc_layout-switcher .l_16_46_16 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/14_46_16.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/14_46_16.gif);
 }
 .vc_layout-switcher .l_16_16_16_12 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/16_16_16_12.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/16_16_16_12.gif);
 }
 .vc_layout-switcher .l_16_16_16_16_16_16 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/16_16_16_16_16_16.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/16_16_16_16_16_16.gif);
 }
 .vc_controls-visible {
   opacity: 1 !important;
@@ -10132,7 +10132,7 @@ button.vc_gutenberg-modal-update-button {
   width: 16px;
   height: 16px;
   display: inline-block;
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/controls.png) no-repeat -16px 0;
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/controls.png) no-repeat -16px 0;
 }
 .vc_control {
   cursor: pointer;
@@ -10308,40 +10308,40 @@ button.vc_gutenberg-modal-update-button {
   color: #00a0d2;
 }
 .vc_controls-row .vc_control-set-column.l_12_12 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/12_12.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/12_12.gif);
 }
 .vc_controls-row .vc_control-set-column.l_23_13 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/23_13.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/23_13.gif);
 }
 .vc_controls-row .vc_control-set-column.l_13_13_13 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/13_13_13.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/13_13_13.gif);
 }
 .vc_controls-row .vc_control-set-column.l_13_23 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/13_23.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/13_23.gif);
 }
 .vc_controls-row .vc_control-set-column.l_14_14_14_14 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/14_14_14_14.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/14_14_14_14.gif);
 }
 .vc_controls-row .vc_control-set-column.l_23_13 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/23_13.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/23_13.gif);
 }
 .vc_controls-row .vc_control-set-column.l_14_34 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/14_34.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/14_34.gif);
 }
 .vc_controls-row .vc_control-set-column.l_14_12_14 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/14_12_14.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/14_12_14.gif);
 }
 .vc_controls-row .vc_control-set-column.l_56_16 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/56_16.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/56_16.gif);
 }
 .vc_controls-row .vc_control-set-column.l_16_46_16 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/14_46_16.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/14_46_16.gif);
 }
 .vc_controls-row .vc_control-set-column.l_16_16_16_12 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/16_16_16_12.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/16_16_16_12.gif);
 }
 .vc_controls-row .vc_control-set-column.l_16_16_16_16_16_16 {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/16_16_16_16_16_16.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/row_layouts/16_16_16_16_16_16.gif);
 }
 .vc_controls-row .vc_row_edit_clone_delete .vc_control {
   float: right;
@@ -10842,7 +10842,7 @@ button.vc_gutenberg-modal-update-button {
   min-height: 55px;
 }
 .wpb_vc_item.wpb_content_element > .wpb_element_wrapper {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/item_icon.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/item_icon.png);
   background-position: 8px 7px;
   min-height: 13px;
   height: 13px;
@@ -10903,7 +10903,7 @@ textarea.wpb_vc_param_value[name="content"] {
   background: 0 0;
 }
 #poststuff .wpb_vc_accordion .ui-icon {
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/controls.png) no-repeat -16px -16px;
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/controls.png) no-repeat -16px -16px;
   width: 16px;
   height: 16px;
   position: absolute;
@@ -11106,136 +11106,136 @@ i.icon {
 }
 .wpb_address_book i.icon,
 option.wpb_address_book {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/address-book.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/address-book.png) no-repeat right center;
 }
 .wpb_alarm_clock i.icon,
 option.wpb_alarm_clock {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/alarm-clock.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/alarm-clock.png) no-repeat right center;
 }
 .wpb_anchor i.icon,
 option.wpb_anchor {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/anchor.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/anchor.png) no-repeat right center;
 }
 .wpb_application_image i.icon,
 option.wpb_application_image {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/application-image.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/application-image.png) no-repeat right center;
 }
 .wpb_arrow i.icon,
 option.wpb_arrow {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/arrow.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/arrow.png) no-repeat right center;
 }
 .wpb_asterisk i.icon,
 option.wpb_asterisk {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/asterisk.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/asterisk.png) no-repeat right center;
 }
 .wpb_hammer i.icon,
 option.wpb_hammer {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/auction-hammer.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/auction-hammer.png) no-repeat right center;
 }
 .wpb_balloon i.icon,
 option.wpb_balloon {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/balloon.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/balloon.png) no-repeat right center;
 }
 .wpb_balloon_buzz i.icon,
 option.wpb_balloon_buzz {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/balloon-buzz.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/balloon-buzz.png) no-repeat right center;
 }
 .wpb_balloon_facebook i.icon,
 option.wpb_balloon_facebook {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/balloon-facebook.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/balloon-facebook.png) no-repeat right center;
 }
 .wpb_balloon_twitter i.icon,
 option.wpb_balloon_twitter {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/balloon-twitter.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/balloon-twitter.png) no-repeat right center;
 }
 .wpb_battery i.icon,
 option.wpb_battery {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/battery-full.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/battery-full.png) no-repeat right center;
 }
 .wpb_binocular i.icon,
 option.wpb_binocular {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/binocular.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/binocular.png) no-repeat right center;
 }
 .wpb_document_excel i.icon,
 option.wpb_document_excel {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-excel.png) no-repeat right
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-excel.png) no-repeat right
     center;
 }
 .wpb_document_image i.icon,
 option.wpb_document_image {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-image.png) no-repeat right
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-image.png) no-repeat right
     center;
 }
 .wpb_document_music i.icon,
 option.wpb_document_music {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-music.png) no-repeat right
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-music.png) no-repeat right
     center;
 }
 .wpb_document_office i.icon,
 option.wpb_document_office {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-office.png) no-repeat right
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-office.png) no-repeat right
     center;
 }
 .wpb_document_pdf i.icon,
 option.wpb_document_pdf {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-pdf.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-pdf.png) no-repeat right center;
 }
 .wpb_document_powerpoint i.icon,
 option.wpb_document_powerpoint {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-powerpoint.png) no-repeat right
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-powerpoint.png) no-repeat right
     center;
 }
 .wpb_document_word i.icon,
 option.wpb_document_word {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-word.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-word.png) no-repeat right center;
 }
 .wpb_bookmark i.icon,
 option.wpb_bookmark {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/bookmark.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/bookmark.png) no-repeat right center;
 }
 .wpb_camcorder i.icon,
 option.wpb_camcorder {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/camcorder.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/camcorder.png) no-repeat right center;
 }
 .wpb_camera i.icon,
 option.wpb_camera {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/camera.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/camera.png) no-repeat right center;
 }
 .wpb_chart i.icon,
 option.wpb_chart {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/chart.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/chart.png) no-repeat right center;
 }
 .wpb_chart_pie i.icon,
 option.wpb_chart_pie {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/chart-pie.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/chart-pie.png) no-repeat right center;
 }
 .wpb_clock i.icon,
 option.wpb_clock {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/clock.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/clock.png) no-repeat right center;
 }
 .wpb_play i.icon,
 option.wpb_play {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/control.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/control.png) no-repeat right center;
 }
 .wpb_fire i.icon,
 option.wpb_fire {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/fire.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/fire.png) no-repeat right center;
 }
 .wpb_heart i.icon,
 option.wpb_heart {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/heart.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/heart.png) no-repeat right center;
 }
 .wpb_mail i.icon,
 option.wpb_mail {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/mail.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/mail.png) no-repeat right center;
 }
 .wpb_shield i.icon,
 option.wpb_shield {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/plus-shield.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/plus-shield.png) no-repeat right center;
 }
 .wpb_video i.icon,
 option.wpb_video {
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/images/icons/video.png) no-repeat right center;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/images/icons/video.png) no-repeat right center;
 }
 .vc_btn3-container {
   display: block;
@@ -18474,7 +18474,7 @@ option.wpb_video {
 .vc_placeholder-tta-tab {
   padding: 0;
   margin: 0;
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/pattern.gif);
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/pattern.gif);
   height: 50px;
 }
 .vc_placeholder-tta-tab {
@@ -19159,7 +19159,7 @@ option.wpb_video {
 }
 .wpb_vc_separator > .wpb_element_wrapper,
 .wpb_vc_text_separator > .wpb_element_wrapper {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/separator.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/separator.gif);
   background-repeat: repeat-x;
   background-position: center center;
   padding: 0;
@@ -19265,7 +19265,7 @@ option.wpb_video {
   width: 16px;
   height: 16px;
   display: inline-block;
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/controls.png) no-repeat -16px -16px;
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/controls.png) no-repeat -16px -16px;
 }
 .wpb_vc_tabs > .wpb_element_wrapper .ui-tabs .ui-tabs-nav li.ui-tabs-active {
   background: #fff;
@@ -19374,11 +19374,11 @@ option.wpb_video {
   margin: 0 !important;
   line-height: inherit;
   cursor: pointer;
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/plus.png) left 3px no-repeat;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/plus.png) left 3px no-repeat;
   padding-left: 20px !important;
 }
 .wpb_vc_toggle .wpb_element_wrapper .vc_toggle_title_active {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/minus.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/minus.png);
 }
 .wpb_vc_toggle .wpb_element_wrapper .vc_toggle_content {
   display: none;
@@ -19437,7 +19437,7 @@ option.wpb_video {
   width: 100%;
   height: 16px;
   display: block;
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/controls.png) no-repeat -16px -16px;
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/controls.png) no-repeat -16px -16px;
 }
 .wpb_vc_tour > .wpb_element_wrapper .ui-tabs .ui-tabs-nav li.ui-tabs-active {
   background: #fff;
@@ -19486,7 +19486,7 @@ option.wpb_video {
   font-size: 14px;
 }
 .vc_gitem-shortcode > .vc-controls .vc-icon {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/fe/controls.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/fe/controls.png);
   background-repeat: no-repeat;
 }
 .vc_gitem-shortcode .vc_shortcodes_container {
@@ -19795,7 +19795,7 @@ option.wpb_video {
   right: 55px;
 }
 .wpb_vc_gitem_zone_c > .vc_css-helper.vc_featured {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc_gitem_image.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc_gitem_image.png);
   background-size: cover;
   margin-top: 3px;
   width: 16px;
@@ -19827,7 +19827,7 @@ option.wpb_video {
 }
 .wpb_vc_gitem_zone_a > .vc_css-helper.vc_featured,
 .wpb_vc_gitem_zone_b > .vc_css-helper.vc_featured {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc_gitem_image.png);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc_gitem_image.png);
   background-size: cover;
   margin-top: 3px;
   width: 16px;
@@ -19901,27 +19901,27 @@ option.wpb_video {
 }
 .icon-wpb-contactform7 {
   background-position: 0 -832px;
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-contact-form-7.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-contact-form-7.svg);
   background-position: unset;
 }
 .icon-wpb-vc_gravityform {
   background-position: 0 -864px;
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-gravity-forms.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-gravity-forms.svg);
   background-position: unset;
 }
 .icon-wpb-layerslider {
   background-position: 0 -896px;
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-layer-slider.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-layer-slider.svg);
   background-position: unset;
 }
 .icon-wpb-revslider {
   background-position: 0 -928px;
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-revolution-slider.svg);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/vc-element-icons/element-icon-revolution-slider.svg);
   background-position: unset;
 }
 .vc_placeholder-jwplayer {
   width: 100%;
-  background: #2a2a2a url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/3rd-party/jwplayer.png) center center no-repeat;
+  background: #2a2a2a url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/3rd-party/jwplayer.png) center center no-repeat;
 }
 .vc_placeholder-jwplayer:before {
   content: "";
@@ -19930,12 +19930,12 @@ option.wpb_video {
 }
 @font-face {
   font-family: vc_grid_v1;
-  src: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac);
-  src: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.eot#iefix-9hbgac)
+  src: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac);
+  src: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.eot#iefix-9hbgac)
       format("embedded-opentype"),
-    url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac) format("woff"),
-    url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac) format("truetype"),
-    url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac#vc_grid_v1) format("svg");
+    url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac) format("woff"),
+    url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac) format("truetype"),
+    url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac#vc_grid_v1) format("svg");
   font-weight: 400;
   font-style: normal;
 }
@@ -20156,7 +20156,7 @@ option.wpb_video {
 .widgets-placeholder,
 .widgets-placeholder-column,
 .widgets-placeholder-gallery {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/pattern.gif);
+  background-image: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/pattern.gif);
   height: 50px;
 }
 .vc_sorting-empty-container {
@@ -20225,22 +20225,22 @@ option.wpb_video {
 }
 .vc_placeholder {
   width: 100% !important;
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/pattern.gif);
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/pattern.gif);
   margin-top: 5px;
   margin-bottom: 5px;
 }
 .vc_placeholder-row {
   padding: 0;
   margin: 0 0 35px 0;
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/pattern.gif);
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/pattern.gif);
   height: 50px;
 }
 .vc_placeholder-column {
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/pattern.gif);
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/pattern.gif);
   float: left;
 }
 .vc_placeholder-tab {
-  background: transparent url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/pattern.gif);
+  background: transparent url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/pattern.gif);
 }
 .vc_param_group-list .vc_placeholder {
   height: 24px;
@@ -20273,7 +20273,7 @@ body.mobile.modal-open #wpwrap {
   float: left;
   height: 80px;
   width: 80px;
-  background: url(https://estupendavibra.netlify.app/wp-content/plugins/js_composer_salient/assets/vc/add.png) center center no-repeat #F5F5F5;
+  background: url(https://estupendavibra.com/wp-content/plugins/js_composer_salient/assets/vc/add.png) center center no-repeat #F5F5F5;
   border: 1px solid #DFDFDF;
   font-size: 0;
   color: #F5F5F5;

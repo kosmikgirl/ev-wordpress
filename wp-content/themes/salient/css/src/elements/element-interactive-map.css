@@ -151,7 +151,7 @@ body.page-template-template-contact-php #page-header-bg{
   background-color: #fff;
 }
 .nectar-leaflet-map:not([data-marker-style="nectar"]) .leaflet-marker-icon:before {
-  background-image: url(https://estupendavibra.netlify.app/wp-content/themes/salient/img/icons/leaflet/marker-shadow.png);
+  background-image: url(https://estupendavibra.com/wp-content/themes/salient/img/icons/leaflet/marker-shadow.png);
   position: absolute;
   z-index: -1;
   display: block;

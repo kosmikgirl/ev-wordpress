@@ -656,7 +656,7 @@ ul .clearfix {
   width: 220px;
   height: 20px;
   margin: 20px 0 0;
-  background-image: url("https://estupendavibra.netlify.app/wp-content/plugins/learnpress/assets/images/animation.gif");
+  background-image: url("https://estupendavibra.com/wp-content/plugins/learnpress/assets/images/animation.gif");
 }
 
 .message-box-buttons {
@@ -3028,7 +3028,7 @@ input[name=_lp_course_result]:checked ~ #passing-condition-quiz-result {
   display: block;
   content: "";
   z-index: 9;
-  background: url("https://estupendavibra.netlify.app/wp-content/plugins/learnpress/assets/images/spinner.gif") no-repeat center center;
+  background: url("https://estupendavibra.com/wp-content/plugins/learnpress/assets/images/spinner.gif") no-repeat center center;
 }
 
 .modal-search {
@@ -3613,7 +3613,7 @@ input[name=_lp_course_result]:checked ~ #passing-condition-quiz-result {
   justify-content: center;
 }
 .post-type-lp_order .export-options__loading .spinner {
-  background: url("https://estupendavibra.netlify.app/wp-content/plugins/learnpress/assets/images/spinner.gif") no-repeat center center;
+  background: url("https://estupendavibra.com/wp-content/plugins/learnpress/assets/images/spinner.gif") no-repeat center center;
   z-index: 9;
   display: inline-block;
   visibility: visible;
@@ -4247,7 +4247,7 @@ input[name=_lp_course_result]:checked ~ #passing-condition-quiz-result {
 }
 #admin-editor-lp_course .lp-course-curriculum .section .section-head .movable {
   margin-left: -1px;
-  cursor: url("https://estupendavibra.netlify.app/wp-content/plugins/learnpress/assets/images/openhand.cur") 7 5, default;
+  cursor: url("https://estupendavibra.com/wp-content/plugins/learnpress/assets/images/openhand.cur") 7 5, default;
 }
 #admin-editor-lp_course .lp-course-curriculum .section .section-head .movable::before {
   content: "\f333";
@@ -4365,7 +4365,7 @@ input[name=_lp_course_result]:checked ~ #passing-condition-quiz-result {
   height: 20px;
   padding-top: 3px;
   padding-right: 6px;
-  cursor: url("https://estupendavibra.netlify.app/wp-content/plugins/learnpress/assets/images/openhand.cur") 7 5, default;
+  cursor: url("https://estupendavibra.com/wp-content/plugins/learnpress/assets/images/openhand.cur") 7 5, default;
   fill: #999;
   flex: 0 0 18px;
 }
@@ -4748,7 +4748,7 @@ input[name=_lp_course_result]:checked ~ #passing-condition-quiz-result {
 #admin-editor-lp_quiz .lp-box-data-content .lp-list-questions .table-row > .sort {
   position: relative;
   color: #999;
-  cursor: url("https://estupendavibra.netlify.app/wp-content/plugins/learnpress/assets/images/openhand.cur") 7 5, default;
+  cursor: url("https://estupendavibra.com/wp-content/plugins/learnpress/assets/images/openhand.cur") 7 5, default;
   flex: 0 0 15px;
 }
 #admin-editor-lp_quiz .lp-box-data-content .lp-list-questions .table-row > .sort .svg-icon {
@@ -4933,7 +4933,7 @@ input[name=_lp_course_result]:checked ~ #passing-condition-quiz-result {
 }
 #admin-editor-lp_quiz .lp-box-data-content .lp-list-questions .main .question-settings .quiz-question-data table.lp-list-options tbody tr td.sort {
   width: 12px;
-  cursor: url("https://estupendavibra.netlify.app/wp-content/plugins/learnpress/assets/images/openhand.cur") 7 5, default;
+  cursor: url("https://estupendavibra.com/wp-content/plugins/learnpress/assets/images/openhand.cur") 7 5, default;
 }
 #admin-editor-lp_quiz .lp-box-data-content .lp-list-questions .main .question-settings .quiz-question-data table.lp-list-options tbody tr td.answer-text {
   padding-right: 0;
@@ -5477,7 +5477,7 @@ input[name=_lp_course_result]:checked ~ #passing-condition-quiz-result {
   padding: 0;
   font-size: 1.125rem;
   text-align: center;
-  cursor: url("https://estupendavibra.netlify.app/wp-content/plugins/learnpress/assets/images/openhand.cur") 7 5, default;
+  cursor: url("https://estupendavibra.com/wp-content/plugins/learnpress/assets/images/openhand.cur") 7 5, default;
 }
 #admin-editor-lp_question .lp-box-data-content table.list-question-answers tbody tr td.sort .svg-icon {
   height: 18px;
@@ -5752,7 +5752,7 @@ input[name=_lp_course_result]:checked ~ #passing-condition-quiz-result {
   left: 0;
   bottom: 0;
   right: 0;
-  background: url("https://estupendavibra.netlify.app/wp-content/plugins/learnpress/assets/images/spinner.gif") no-repeat center center;
+  background: url("https://estupendavibra.com/wp-content/plugins/learnpress/assets/images/spinner.gif") no-repeat center center;
   background-color: #fff;
   content: "";
 }
@@ -5919,7 +5919,7 @@ input[name=_lp_course_result]:checked ~ #passing-condition-quiz-result {
 }
 
 body.lp-item-moving {
-  cursor: url("https://estupendavibra.netlify.app/wp-content/plugins/learnpress/assets/images/closedhand.cur") 7 5, default !important;
+  cursor: url("https://estupendavibra.com/wp-content/plugins/learnpress/assets/images/closedhand.cur") 7 5, default !important;
 }
 
 @media screen and (max-width: 900px) {
@@ -6461,7 +6461,7 @@ table.lp-material--table tr:nth-child(even) {
 
 @font-face {
   font-family: "lp-icon";
-  src: url("https://estupendavibra.netlify.app/wp-content/plugins/learnpress/assets/src/css/vendor/fonts/lp-icon/lp-icon.ttf?v3eoq3") format("truetype"), url("https://estupendavibra.netlify.app/wp-content/plugins/learnpress/assets/src/css/vendor/fonts/lp-icon/lp-icon.woff?v3eoq4") format("woff"), url("https://estupendavibra.netlify.app/wp-content/plugins/learnpress/assets/src/css/vendor/fonts/lp-icon/lp-icon.svg?v3eoq4#lp-icon") format("svg");
+  src: url("https://estupendavibra.com/wp-content/plugins/learnpress/assets/src/css/vendor/fonts/lp-icon/lp-icon.ttf?v3eoq3") format("truetype"), url("https://estupendavibra.com/wp-content/plugins/learnpress/assets/src/css/vendor/fonts/lp-icon/lp-icon.woff?v3eoq4") format("woff"), url("https://estupendavibra.com/wp-content/plugins/learnpress/assets/src/css/vendor/fonts/lp-icon/lp-icon.svg?v3eoq4#lp-icon") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;

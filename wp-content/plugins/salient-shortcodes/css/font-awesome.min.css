@@ -1,11 +1,11 @@
 
 @font-face{
 	font-family:'FontAwesome';
-	src:url('https://estupendavibra.netlify.app/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.eot?v=4.2');
-	src:url('https://estupendavibra.netlify.app/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.eot#iefix&v=4.2') format('embedded-opentype'),
-		url('https://estupendavibra.netlify.app/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.svg#fontawesomeregular?v=4.2') format('svg'),
-	    url('https://estupendavibra.netlify.app/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.woff?v=4.2') format('woff'),
-	    url('https://estupendavibra.netlify.app/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.ttf?v=4.2') format('truetype');
+	src:url('https://estupendavibra.com/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.eot?v=4.2');
+	src:url('https://estupendavibra.com/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.eot#iefix&v=4.2') format('embedded-opentype'),
+		url('https://estupendavibra.com/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.svg#fontawesomeregular?v=4.2') format('svg'),
+	    url('https://estupendavibra.com/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.woff?v=4.2') format('woff'),
+	    url('https://estupendavibra.com/wp-content/plugins/salient-shortcodes/css/fonts/fontawesome-webfont.ttf?v=4.2') format('truetype');
 	font-weight:normal;
 	font-style:normal;
 }

@@ -1,10 +1,10 @@
 @font-face{
   font-family:'nectarbrands';
-  src:url('https://estupendavibra.netlify.app/wp-content/themes/salient/css/fonts/nectar-brands.eot?v=1.0');
-  src:url('https://estupendavibra.netlify.app/wp-content/themes/salient/css/fonts/nectar-brands.eot#iefix&v=1.0') format('embedded-opentype'),
-      url('https://estupendavibra.netlify.app/wp-content/themes/salient/css/fonts/nectar-brands.woff?v=1.0') format('woff'),
-      url('https://estupendavibra.netlify.app/wp-content/themes/salient/css/fonts/nectar-brands.ttf?v=1.0') format('truetype'),
-      url('https://estupendavibra.netlify.app/wp-content/themes/salient/css/fonts/nectar-brands.svg?v=1.0') format('svg');
+  src:url('https://estupendavibra.com/wp-content/themes/salient/css/fonts/nectar-brands.eot?v=1.0');
+  src:url('https://estupendavibra.com/wp-content/themes/salient/css/fonts/nectar-brands.eot#iefix&v=1.0') format('embedded-opentype'),
+      url('https://estupendavibra.com/wp-content/themes/salient/css/fonts/nectar-brands.woff?v=1.0') format('woff'),
+      url('https://estupendavibra.com/wp-content/themes/salient/css/fonts/nectar-brands.ttf?v=1.0') format('truetype'),
+      url('https://estupendavibra.com/wp-content/themes/salient/css/fonts/nectar-brands.svg?v=1.0') format('svg');
   font-weight:normal;
 	font-display:block;
   font-style:normal

@@ -9,7 +9,7 @@
 			<div class="wp-block-group" style="min-height:100%">
 				<!-- wp:image {"aspectRatio":"9/16","scale":"cover","sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
 				<figure class="wp-block-image size-large is-style-rounded">
-					<img src="https://estupendavibra.netlify.app/wp-content/themes/twentytwentyfour/patterns/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in /Users/julziten/Local Sites/estupendavibra/app/public/wp-content/themes/twentytwentyfour/patterns/gallery-project-layout.php:20_Stack trace:_#0 {main}_  thrown in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/themes/twentytwentyfour/patterns/gallery-project-layout.php</b> on line <b>20</b><br />"></figure>
+					<img src="https://estupendavibra.com/wp-content/themes/twentytwentyfour/patterns/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in /Users/julziten/Local Sites/estupendavibra/app/public/wp-content/themes/twentytwentyfour/patterns/gallery-project-layout.php:20_Stack trace:_#0 {main}_  thrown in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/themes/twentytwentyfour/patterns/gallery-project-layout.php</b> on line <b>20</b><br />"></figure>
 </div>
 </div>
 </div>

@@ -94,11 +94,11 @@ body.compose-mode .vc_helper .vc_element-icon {
 
 @font-face {
   font-family: "nectar-editor";
-  src: url('https://estupendavibra.netlify.app/wp-content/plugins/salient-core/includes/img/nectar-editor.eot?t=1627074449351'); 
-  src: url('https://estupendavibra.netlify.app/wp-content/plugins/salient-core/includes/img/nectar-editor.eot?t=1627074449351#iefix') format('embedded-opentype'), 
-  url("https://estupendavibra.netlify.app/wp-content/plugins/salient-core/includes/img/nectar-editor.woff?t=1627074449351") format("woff"),
-  url('https://estupendavibra.netlify.app/wp-content/plugins/salient-core/includes/img/nectar-editor.ttf?t=1627074449351') format('truetype'), 
-  url('https://estupendavibra.netlify.app/wp-content/plugins/salient-core/includes/img/nectar-editor.svg?t=1627074449351#remixicon') format('svg');
+  src: url('https://estupendavibra.com/wp-content/plugins/salient-core/includes/img/nectar-editor.eot?t=1627074449351'); 
+  src: url('https://estupendavibra.com/wp-content/plugins/salient-core/includes/img/nectar-editor.eot?t=1627074449351#iefix') format('embedded-opentype'), 
+  url("https://estupendavibra.com/wp-content/plugins/salient-core/includes/img/nectar-editor.woff?t=1627074449351") format("woff"),
+  url('https://estupendavibra.com/wp-content/plugins/salient-core/includes/img/nectar-editor.ttf?t=1627074449351') format('truetype'), 
+  url('https://estupendavibra.com/wp-content/plugins/salient-core/includes/img/nectar-editor.svg?t=1627074449351#remixicon') format('svg');
   font-display: swap;
 }
 

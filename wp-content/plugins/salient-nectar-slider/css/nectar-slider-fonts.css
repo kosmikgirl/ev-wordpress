@@ -1,10 +1,10 @@
 @font-face{
   font-family:'nectar-slider-icomoon'; 
-  src:url('https://estupendavibra.netlify.app/wp-content/plugins/salient-nectar-slider/css/fonts/icomoon.eot'); 
-  src:url('https://estupendavibra.netlify.app/wp-content/plugins/salient-nectar-slider/css/fonts/icomoon.eot#iefix') format('embedded-opentype'),
-  url('https://estupendavibra.netlify.app/wp-content/plugins/salient-nectar-slider/css/fonts/icomoon.woff') format('woff'),
-  url('https://estupendavibra.netlify.app/wp-content/plugins/salient-nectar-slider/css/fonts/icomoon.ttf') format('truetype'),
-  url('https://estupendavibra.netlify.app/wp-content/plugins/salient-nectar-slider/css/fonts/icomoon.svg#icomoon') format('svg'); 
+  src:url('https://estupendavibra.com/wp-content/plugins/salient-nectar-slider/css/fonts/icomoon.eot'); 
+  src:url('https://estupendavibra.com/wp-content/plugins/salient-nectar-slider/css/fonts/icomoon.eot#iefix') format('embedded-opentype'),
+  url('https://estupendavibra.com/wp-content/plugins/salient-nectar-slider/css/fonts/icomoon.woff') format('woff'),
+  url('https://estupendavibra.com/wp-content/plugins/salient-nectar-slider/css/fonts/icomoon.ttf') format('truetype'),
+  url('https://estupendavibra.com/wp-content/plugins/salient-nectar-slider/css/fonts/icomoon.svg#icomoon') format('svg'); 
   font-weight:normal; 
   font-style:normal
 }

@@ -345,12 +345,12 @@ svg.leaflet-image-layer.leaflet-interactive path {
 	border-radius: 5px;
 	}
 .leaflet-control-layers-toggle {
-	background-image: url(https://estupendavibra.netlify.app/wp-content/themes/salient/css/img/icons/leaflet/layers.png);
+	background-image: url(https://estupendavibra.com/wp-content/themes/salient/css/img/icons/leaflet/layers.png);
 	width: 36px;
 	height: 36px;
 	}
 .leaflet-retina .leaflet-control-layers-toggle {
-	background-image: url(https://estupendavibra.netlify.app/wp-content/themes/salient/css/img/icons/leaflet/layers-2x.png);
+	background-image: url(https://estupendavibra.com/wp-content/themes/salient/css/img/icons/leaflet/layers-2x.png);
 	background-size: 26px 26px;
 	}
 .leaflet-touch .leaflet-control-layers-toggle {

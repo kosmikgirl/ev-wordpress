@@ -9,8 +9,8 @@
 
 <channel>
 	<title>estupendavibra &#8211; estupendavibra</title>
-	<atom:link href="https://estupendavibra.netlify.app/author/estupendavibra/feed/" rel="self" type="application/rss+xml" />
-	<link>https://estupendavibra.netlify.app/</link>
+	<atom:link href="https://estupendavibra.com/author/estupendavibra/feed/" rel="self" type="application/rss+xml" />
+	<link>https://estupendavibra.com/</link>
 	<description></description>
 	<lastBuildDate>Tue, 09 Jul 2024 10:45:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,27 +21,27 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>Equilibrio</title>
-		<link>https://estupendavibra.netlify.app/hello-world/</link>
-					<comments>https://estupendavibra.netlify.app/hello-world/#comments</comments>
+		<link>https://estupendavibra.com/hello-world/</link>
+					<comments>https://estupendavibra.com/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[estupendavibra]]></dc:creator>
 		<pubDate>Tue, 09 Jul 2024 09:06:28 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://estupendavibra.netlify.app/?p=1</guid>
+		<guid isPermaLink="false">https://estupendavibra.com/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://estupendavibra.netlify.app/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://estupendavibra.com/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Mujer Salvaje</title>
-		<link>https://estupendavibra.netlify.app/the-perfect-time-to-explore-the-ocean-reef/</link>
+		<link>https://estupendavibra.com/the-perfect-time-to-explore-the-ocean-reef/</link>
 		
 		<dc:creator><![CDATA[estupendavibra]]></dc:creator>
 		<pubDate>Fri, 12 Nov 2021 21:06:54 +0000</pubDate>
@@ -105,11 +105,11 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="818" height="1024" data-id="33" src="https://estupendavibra.netlify.app/wp-content/uploads/2021/11/kiril-dobrev-8cQpL8kGqso-unsplash-818x1024.jpg" alt="" class="wp-image-33" srcset="https://estupendavibra.netlify.app/wp-content/uploads/2021/11/kiril-dobrev-8cQpL8kGqso-unsplash-818x1024.jpg 818w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/kiril-dobrev-8cQpL8kGqso-unsplash-240x300.jpg 240w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/kiril-dobrev-8cQpL8kGqso-unsplash-768x962.jpg 768w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/kiril-dobrev-8cQpL8kGqso-unsplash.jpg 899w" sizes="(max-width: 818px) 100vw, 818px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="818" height="1024" data-id="33" src="https://estupendavibra.com/wp-content/uploads/2021/11/kiril-dobrev-8cQpL8kGqso-unsplash-818x1024.jpg" alt="" class="wp-image-33" srcset="https://estupendavibra.com/wp-content/uploads/2021/11/kiril-dobrev-8cQpL8kGqso-unsplash-818x1024.jpg 818w, https://estupendavibra.com/wp-content/uploads/2021/11/kiril-dobrev-8cQpL8kGqso-unsplash-240x300.jpg 240w, https://estupendavibra.com/wp-content/uploads/2021/11/kiril-dobrev-8cQpL8kGqso-unsplash-768x962.jpg 768w, https://estupendavibra.com/wp-content/uploads/2021/11/kiril-dobrev-8cQpL8kGqso-unsplash.jpg 899w" sizes="(max-width: 818px) 100vw, 818px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="766" data-id="31" src="https://estupendavibra.netlify.app/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-1024x766.jpg" alt="" class="wp-image-31" srcset="https://estupendavibra.netlify.app/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-1024x766.jpg 1024w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-300x225.jpg 300w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-768x575.jpg 768w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-1536x1150.jpg 1536w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash.jpg 1801w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="766" data-id="31" src="https://estupendavibra.com/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-1024x766.jpg" alt="" class="wp-image-31" srcset="https://estupendavibra.com/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-1024x766.jpg 1024w, https://estupendavibra.com/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-300x225.jpg 300w, https://estupendavibra.com/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-768x575.jpg 768w, https://estupendavibra.com/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-1536x1150.jpg 1536w, https://estupendavibra.com/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash.jpg 1801w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </figure>
 
 
@@ -142,7 +142,7 @@
 			</item>
 		<item>
 		<title>Viaje al fondo del alma</title>
-		<link>https://estupendavibra.netlify.app/the-salient-summer-music-fest/</link>
+		<link>https://estupendavibra.com/the-salient-summer-music-fest/</link>
 		
 		<dc:creator><![CDATA[estupendavibra]]></dc:creator>
 		<pubDate>Fri, 12 Nov 2021 07:26:00 +0000</pubDate>
@@ -191,7 +191,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://estupendavibra.netlify.app/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-1024x683.jpg" alt="" class="wp-image-22" srcset="https://estupendavibra.netlify.app/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-1024x683.jpg 1024w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-300x200.jpg 300w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-768x512.jpg 768w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-900x600.jpg 900w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8.jpg 1470w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://estupendavibra.com/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-1024x683.jpg" alt="" class="wp-image-22" srcset="https://estupendavibra.com/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-1024x683.jpg 1024w, https://estupendavibra.com/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-300x200.jpg 300w, https://estupendavibra.com/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-768x512.jpg 768w, https://estupendavibra.com/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-900x600.jpg 900w, https://estupendavibra.com/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8.jpg 1470w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -223,7 +223,7 @@
 			</item>
 		<item>
 		<title>Intuición y Personalidades de la Historia</title>
-		<link>https://estupendavibra.netlify.app/the-best-time-of-year-to-visit/</link>
+		<link>https://estupendavibra.com/the-best-time-of-year-to-visit/</link>
 		
 		<dc:creator><![CDATA[estupendavibra]]></dc:creator>
 		<pubDate>Fri, 12 Nov 2021 06:18:38 +0000</pubDate>
@@ -287,15 +287,15 @@
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1007" height="1024" data-id="39" src="https://estupendavibra.netlify.app/wp-content/uploads/2021/11/victoria-priessnitz-JFAPl7brL6U-unsplash-1007x1024.jpg" alt="" class="wp-image-39" srcset="https://estupendavibra.netlify.app/wp-content/uploads/2021/11/victoria-priessnitz-JFAPl7brL6U-unsplash-1007x1024.jpg 1007w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/victoria-priessnitz-JFAPl7brL6U-unsplash-295x300.jpg 295w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/victoria-priessnitz-JFAPl7brL6U-unsplash-768x781.jpg 768w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/victoria-priessnitz-JFAPl7brL6U-unsplash.jpg 1500w" sizes="(max-width: 1007px) 100vw, 1007px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1007" height="1024" data-id="39" src="https://estupendavibra.com/wp-content/uploads/2021/11/victoria-priessnitz-JFAPl7brL6U-unsplash-1007x1024.jpg" alt="" class="wp-image-39" srcset="https://estupendavibra.com/wp-content/uploads/2021/11/victoria-priessnitz-JFAPl7brL6U-unsplash-1007x1024.jpg 1007w, https://estupendavibra.com/wp-content/uploads/2021/11/victoria-priessnitz-JFAPl7brL6U-unsplash-295x300.jpg 295w, https://estupendavibra.com/wp-content/uploads/2021/11/victoria-priessnitz-JFAPl7brL6U-unsplash-768x781.jpg 768w, https://estupendavibra.com/wp-content/uploads/2021/11/victoria-priessnitz-JFAPl7brL6U-unsplash.jpg 1500w" sizes="(max-width: 1007px) 100vw, 1007px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="683" height="1024" data-id="37" src="https://estupendavibra.netlify.app/wp-content/uploads/2021/11/steven-wilcox-FlXGsR5nCqk-unsplash-683x1024.jpg" alt="" class="wp-image-37" srcset="https://estupendavibra.netlify.app/wp-content/uploads/2021/11/steven-wilcox-FlXGsR5nCqk-unsplash-683x1024.jpg 683w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/steven-wilcox-FlXGsR5nCqk-unsplash-200x300.jpg 200w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/steven-wilcox-FlXGsR5nCqk-unsplash-768x1152.jpg 768w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/steven-wilcox-FlXGsR5nCqk-unsplash.jpg 800w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="683" height="1024" data-id="37" src="https://estupendavibra.com/wp-content/uploads/2021/11/steven-wilcox-FlXGsR5nCqk-unsplash-683x1024.jpg" alt="" class="wp-image-37" srcset="https://estupendavibra.com/wp-content/uploads/2021/11/steven-wilcox-FlXGsR5nCqk-unsplash-683x1024.jpg 683w, https://estupendavibra.com/wp-content/uploads/2021/11/steven-wilcox-FlXGsR5nCqk-unsplash-200x300.jpg 200w, https://estupendavibra.com/wp-content/uploads/2021/11/steven-wilcox-FlXGsR5nCqk-unsplash-768x1152.jpg 768w, https://estupendavibra.com/wp-content/uploads/2021/11/steven-wilcox-FlXGsR5nCqk-unsplash.jpg 800w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="766" data-id="31" src="https://estupendavibra.netlify.app/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-1024x766.jpg" alt="" class="wp-image-31" srcset="https://estupendavibra.netlify.app/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-1024x766.jpg 1024w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-300x225.jpg 300w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-768x575.jpg 768w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-1536x1150.jpg 1536w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash.jpg 1801w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="766" data-id="31" src="https://estupendavibra.com/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-1024x766.jpg" alt="" class="wp-image-31" srcset="https://estupendavibra.com/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-1024x766.jpg 1024w, https://estupendavibra.com/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-300x225.jpg 300w, https://estupendavibra.com/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-768x575.jpg 768w, https://estupendavibra.com/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash-1536x1150.jpg 1536w, https://estupendavibra.com/wp-content/uploads/2021/11/ian-schneider-WymR2nYtj5M-unsplash.jpg 1801w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </figure>
 
 
@@ -328,7 +328,7 @@
 			</item>
 		<item>
 		<title>Alquimia</title>
-		<link>https://estupendavibra.netlify.app/the-surprising-history-of-queensland/</link>
+		<link>https://estupendavibra.com/the-surprising-history-of-queensland/</link>
 		
 		<dc:creator><![CDATA[estupendavibra]]></dc:creator>
 		<pubDate>Fri, 12 Nov 2021 06:14:24 +0000</pubDate>
@@ -377,7 +377,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://estupendavibra.netlify.app/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-1024x683.jpg" alt="" class="wp-image-22" srcset="https://estupendavibra.netlify.app/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-1024x683.jpg 1024w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-300x200.jpg 300w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-768x512.jpg 768w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-900x600.jpg 900w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8.jpg 1470w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://estupendavibra.com/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-1024x683.jpg" alt="" class="wp-image-22" srcset="https://estupendavibra.com/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-1024x683.jpg 1024w, https://estupendavibra.com/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-300x200.jpg 300w, https://estupendavibra.com/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-768x512.jpg 768w, https://estupendavibra.com/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-900x600.jpg 900w, https://estupendavibra.com/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8.jpg 1470w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -409,7 +409,7 @@
 			</item>
 		<item>
 		<title>Propósito</title>
-		<link>https://estupendavibra.netlify.app/before-traveling-to-port-douglas/</link>
+		<link>https://estupendavibra.com/before-traveling-to-port-douglas/</link>
 		
 		<dc:creator><![CDATA[estupendavibra]]></dc:creator>
 		<pubDate>Fri, 12 Nov 2021 04:02:25 +0000</pubDate>
@@ -454,7 +454,7 @@
 			</item>
 		<item>
 		<title>Creencias</title>
-		<link>https://estupendavibra.netlify.app/top-destinations-worth-visiting/</link>
+		<link>https://estupendavibra.com/top-destinations-worth-visiting/</link>
 		
 		<dc:creator><![CDATA[estupendavibra]]></dc:creator>
 		<pubDate>Wed, 03 Nov 2021 22:22:00 +0000</pubDate>
@@ -503,7 +503,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://estupendavibra.netlify.app/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-1024x683.jpg" alt="" class="wp-image-22" srcset="https://estupendavibra.netlify.app/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-1024x683.jpg 1024w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-300x200.jpg 300w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-768x512.jpg 768w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-900x600.jpg 900w, https://estupendavibra.netlify.app/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8.jpg 1470w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://estupendavibra.com/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-1024x683.jpg" alt="" class="wp-image-22" srcset="https://estupendavibra.com/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-1024x683.jpg 1024w, https://estupendavibra.com/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-300x200.jpg 300w, https://estupendavibra.com/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-768x512.jpg 768w, https://estupendavibra.com/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8-900x600.jpg 900w, https://estupendavibra.com/wp-content/uploads/2021/11/photo-1536089414367-6959be8732e8.jpg 1470w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
