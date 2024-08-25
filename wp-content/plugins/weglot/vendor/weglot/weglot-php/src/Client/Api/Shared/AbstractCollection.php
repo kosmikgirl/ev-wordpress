@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Weglot\Client\Api\Shared\AbstractCollectionCountable&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/weglot/vendor/weglot/weglot-php/src/Client/Api/Shared/AbstractCollection.php</b> on line <b>14</b><br>

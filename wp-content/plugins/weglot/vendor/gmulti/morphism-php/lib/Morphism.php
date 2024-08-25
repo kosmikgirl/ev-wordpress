@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Morphism\Helpers\MorphismHelper&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/weglot/vendor/gmulti/morphism-php/lib/Morphism.php</b> on line <b>7</b><br>
