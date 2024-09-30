@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>estupendavibra &#8211; estupendavibra</title>
+	<title>estupendavibra &#8211; Estupenda Vibra</title>
 	<atom:link href="https://estupendavibra.com/author/estupendavibra/feed/" rel="self" type="application/rss+xml" />
 	<link>https://estupendavibra.com/</link>
 	<description></description>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://estupendavibra.com/wp-content/uploads/2024/09/cropped-android-chrome-384x384-1-32x32.png</url>
+	<title>estupendavibra &#8211; Estupenda Vibra</title>
+	<link>https://estupendavibra.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Equilibrio</title>
 		<link>https://estupendavibra.com/hello-world/</link>
