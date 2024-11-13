@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Automattic\WooCommerce\GoogleListingsAndAds\Menu\MenuFixesTrait&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/google-listings-and-ads/src/Menu/GetStarted.php</b> on line <b>16</b><br>

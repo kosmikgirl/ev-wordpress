@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Automattic\WooCommerce\Blueprint\UseWPFunctions&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/woocommerce/src/Admin/Features/Blueprint/Exporters/ExportWCCoreProfilerOptions.php</b> on line <b>15</b><br>

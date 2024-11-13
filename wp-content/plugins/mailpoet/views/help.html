@@ -1,0 +1,19 @@
+<% extends %>
+
+<% block content %>
+
+<div id="mailpoet_help">
+
+  <script type="text/javascript">
+    var systemInfoData = <%= json_encode(systemInfoData) %>;
+    var systemStatusData = <%= json_encode(systemStatusData) %>;
+    var actionSchedulerData = <%= json_encode(actionSchedulerData) %>;
+  </script>
+
+  <div id="help_container"></div>
+
+</div>
+
+  <% localize __ base info status privacy the plugin to work it must be able establish connection with task scheduler and key activation sending service. mailpoet service contact our technical support for assistance. installation can connect on one of these categories below find more information: knowledge articles information is useful when you need get in touch support. just copy all text paste into a message us. there was an error please try again later. clipboard clipboard. not queue respects your privacy. we don track any about website or yourself without explicit consent. services used within may such as email & ip address. send data that ensure works correctly. notice _x updated label table e.g. last updated: run started started: completed completed: seen error: process timeout date date: unknown state accessible: yes empty none process. next at at: emails sent emails: attempt retry attempt: missing tasks scheduled cancelled running paused column heading type. subscribers multiple are selected list them all. priority perform action. show. link preview page. cron action type trigger time background job run. worker %>
+<% endblock %>
+</%></%></%></%>

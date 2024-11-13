@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Google\Ads\GoogleAds\Lib\ConfigurationTrait&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/google-listings-and-ads/src/Google/Ads/ServiceClientFactoryTrait.php</b> on line <b>38</b><br>

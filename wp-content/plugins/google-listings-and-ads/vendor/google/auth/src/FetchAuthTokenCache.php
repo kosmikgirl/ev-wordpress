@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Automattic\WooCommerce\GoogleListingsAndAds\Vendor\Google\Auth\CacheTrait&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/google-listings-and-ads/vendor/google/auth/src/FetchAuthTokenCache.php</b> on line <b>26</b><br>

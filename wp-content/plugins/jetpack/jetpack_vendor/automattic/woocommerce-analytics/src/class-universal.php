@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Automattic\Woocommerce_Analytics\Woo_Analytics_Trait&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/jetpack/jetpack_vendor/automattic/woocommerce-analytics/src/class-universal.php</b> on line <b>17</b><br>

@@ -1,0 +1,51 @@
+<!-- date settings and block templates -->
+<% partial %>
+<% partial %>
+<% partial %>
+<% partial %>
+
+<!-- field settings -->
+<% partial %>
+
+<% partial %>
+<% partial %>
+<% partial %>
+<% partial %>
+<% partial %>
+<% partial %>
+<% partial %>
+
+<% partial %>
+<% partial %>
+<% partial %>
+<% partial %>
+<% partial %>
+
+<!-- custom field: new -->
+<% partial %>
+
+<!-- field settings depending on field type -->
+<script id="form_template_field_text" type="text/x-handlebars-template">{{> _settings_required }}
+  {{> _settings_validate }}
+</script>
+
+<script id="form_template_field_textarea" type="text/x-handlebars-template">{{> _settings_required }}
+  {{> _settings_validate }}
+</script>
+
+<script id="form_template_field_radio" type="text/x-handlebars-template">{{> _settings_values }}
+  {{> _settings_required }}
+</script>
+
+<script id="form_template_field_checkbox" type="text/x-handlebars-template">{{> _settings_values }}
+  {{> _settings_required }}
+</script>
+
+<script id="form_template_field_select" type="text/x-handlebars-template">{{> _settings_values }}
+  {{> _settings_required }}
+</script>
+
+<script id="form_template_field_date" type="text/x-handlebars-template">{{> _settings_required }}
+  {{> _settings_date_type }}
+</script>
+</%></%></%></%></%></%></%></%></%></%></%></%></%></%></%></%></%></%>

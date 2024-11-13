@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Automattic\WooCommerce\Internal\Admin\BlockTemplates\BlockContainerTrait&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/woocommerce/src/Internal/Admin/BlockTemplates/AbstractBlockTemplate.php</b> on line <b>11</b><br>

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Cannot declare class CURLStringFile, because the name is already in use in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/google-listings-and-ads/vendor/symfony/polyfill-php81/Resources/stubs/CURLStringFile.php</b> on line <b>16</b><br>

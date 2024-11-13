@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Automattic\WooCommerce\GoogleListingsAndAds\Vendor\League\Container\Argument\ArgumentResolverTrait&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/google-listings-and-ads/vendor/league/container/src/ReflectionContainer.php</b> on line <b>13</b><br>

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Automattic\WooCommerce\GoogleListingsAndAds\Google\Ads\ServiceClientFactoryTrait&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/google-listings-and-ads/src/Google/Ads/GoogleAdsClient.php</b> on line <b>20</b><br>

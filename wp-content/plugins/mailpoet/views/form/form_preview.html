@@ -1,0 +1,16 @@
+<% block content %>
+  <% if %>
+    <div id="mailpoet_widget_preview" class="mailpoet_widget_preview">
+      <div id="sidebar" class="sidebar widget-area si-sidebar-container">
+        <div class="widget si-widget">
+          <% form | raw %>
+        </%>
+</div>
+      </div>
+    </div>
+  <% else %>
+    <% post | raw %>
+    <% form | raw %>
+  <% endif %>
+<% endblock %>
+</%></%></%></%></%></%></%>

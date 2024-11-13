@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Automattic\WooCommerce\GoogleListingsAndAds\Vendor\Google\Auth\UpdateMetadataTrait&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/google-listings-and-ads/vendor/google/auth/src/Credentials/ExternalAccountCredentials.php</b> on line <b>36</b><br>

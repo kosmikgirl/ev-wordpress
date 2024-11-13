@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Automattic\WooCommerce\Internal\Traits\AccessiblePrivateMethods&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/woocommerce/src/Utilities/PluginUtil.php</b> on line <b>16</b><br>

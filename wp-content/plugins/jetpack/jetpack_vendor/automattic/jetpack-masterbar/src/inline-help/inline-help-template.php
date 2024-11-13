@@ -1,0 +1,3 @@
+<div class="a8c-faux-inline-help">
+	<a class="a8c-faux-inline-help__button" href="https://estupendavibra.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-masterbar/src/inline-help/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in /Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-masterbar/src/inline-help/inline-help-template.php:14_Stack trace:_#0 {main}_  thrown in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-masterbar/src/inline-help/inline-help-template.php</b> on line <b>14</b><br />"></a>
+</div>

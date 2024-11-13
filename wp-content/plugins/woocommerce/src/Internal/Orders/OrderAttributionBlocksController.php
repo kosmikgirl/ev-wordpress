@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Automattic\WooCommerce\Internal\Traits\ScriptDebug&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/woocommerce/src/Internal/Orders/OrderAttributionBlocksController.php</b> on line <b>19</b><br>

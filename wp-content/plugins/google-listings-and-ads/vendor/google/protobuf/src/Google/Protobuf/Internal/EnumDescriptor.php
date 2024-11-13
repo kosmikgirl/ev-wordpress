@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Google\Protobuf\Internal\HasPublicDescriptorTrait&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/google-listings-and-ads/vendor/google/protobuf/src/Google/Protobuf/Internal/EnumDescriptor.php</b> on line <b>7</b><br>

@@ -1,0 +1,43 @@
+<% extends %>
+
+<% block container %>
+
+<div class="block-editor">
+    <div id="mailpoet_form_edit" class="block-editor__container">
+    </div>
+</div>
+
+<script>
+  <% autoescape 'js' %>
+  var mailpoet_form_data = <%= json_encode(form) %>;
+  var mailpoet_form_exports = <%= json_encode(form_exports) %>;
+  var mailpoet_form_segments = <%= json_encode(segments) %>;
+  var mailpoet_custom_fields = <%= json_encode(custom_fields) %>;
+  var mailpoet_date_types = <%= json_encode(date_types) %>;
+  var mailpoet_date_formats = <%= json_encode(date_formats) %>;
+  var mailpoet_month_names = <%= json_encode(month_names) %>;
+  var mailpoet_form_preview_page = <%= json_encode(preview_page_url) %>;
+  var mailpoet_custom_fonts = <%= json_encode(custom_fonts) %>;
+  var mailpoet_translations = <%= json_encode(translations) %>;
+  var mailpoet_all_wp_posts = <%= json_encode(posts) %>;
+  var mailpoet_all_wp_pages = <%= json_encode(pages) %>;
+  var mailpoet_all_wp_categories = <%= json_encode(categories) %>;
+  var mailpoet_all_wp_tags = <%= json_encode(tags) %>;
+  var mailpoet_woocommerce_products = <%= json_encode(products) %>;
+  var mailpoet_woocommerce_categories = <%= json_encode(product_categories) %>;
+  var mailpoet_woocommerce_tags = <%= json_encode(product_tags) %>;
+  var mailpoet_close_icons_url = '<%= image_url("form_close_icon") %>';
+  var mailpoet_tutorial_seen = '<%= editor_tutorial_seen %>';
+  var mailpoet_tutorial_url = '<%= cdn_url('form-editor/tutorial.mp4') %>';
+  var mailpoet_is_administrator = <%= is_administrator ? 'true' : 'false' %>;
+  var mailpoet_form_edit_url = "<%= admin_url('admin.php?page=mailpoet-form-editor&id=') %>";
+  var mailpoet_theme_support_widgets = <%= theme_support_widgets ? 'true' : 'false' %>;
+  var mailpoet_theme_support_fse = <%= theme_support_fse ? 'true' : 'false' %>;
+  <% endautoescape %>
+</script>
+
+<style id="mailpoet-form-editor-form-styles"></style>
+
+<% localize __ the form _x name placeholder for input settings section heading image size from theme style fullwidth label checkbox in radius padding alignment value editor styles to all inputs width field placement a select box css saved. reset you will see your dismissed popup forms again. bar is text on widget that leads type fixed horizontal at top or bottom of posts pages. slide page content. pop-up it be displayed small modal window window. exit-intent immediately if visitor attempts leave site. display pages allows add this end below switch should bellow homepage using with delay selection different times left right side sec every day days button save and close & other placements animation selectbox list animations can area tab site also use block any post shortcode prefer needed an html element. adds subscribers these lists submit message fields lines custom delete deleted subscribers. are sure buttons verb categories category archives tags tag specific date today line rows textarea only number spaces allowed item used catch first names. last which they want subscribe to. least one email addresses. form. default subscription missing. try reloading editor. within spacer : code our newsletter join paragraphs new field. button. already exists. please choose another name. what success looks like. error preview family fonts font list: arial ... divider background rendered: scale fit tile dotted height color above we best show might look like but better check final result website. video tour without %>
+<% endblock %>
+</%></%></%></%>

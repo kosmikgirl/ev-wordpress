@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;phpseclib3\Crypt\EC\Formats\Keys\Common&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/google-listings-and-ads/vendor/phpseclib/phpseclib/phpseclib/Crypt/EC/Formats/Keys/XML.php</b> on line <b>35</b><br>

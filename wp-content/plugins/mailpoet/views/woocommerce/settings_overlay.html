@@ -1,0 +1,30 @@
+<style>/* Hide WooCommerce section with template styling */
+  #email_template_options-description + .form-table {
+    opacity: 0.2;
+    pointer-events: none;
+  }
+
+  /* Position MailPoet buttons over hidden table */
+  .mailpoet-woocommerce-email-overlay {
+    bottom: 320px;
+    left: 0;
+    max-width: 100%;
+    text-align: left;
+    position: absolute;
+    text-align: center;
+    width: 640px;
+    z-index: 1;
+  }</style>
+
+
+
+<div class="mailpoet-woocommerce-email-overlay">
+  <a class="button button-primary" href="https://estupendavibra.com/wp-content/plugins/mailpoet/views/woocommerce/settings_overlay.html?page=mailpoet-newsletter-editor&id=%3C%25%3D+woocommerce_template_id+%25%3E" data-automation-id="mailpoet_woocommerce_customize">
+  	<% _x with mailpoet in woocommerce settings page %>
+  </%></a>
+  <br>
+  <br>
+  <a href="https://estupendavibra.com/wp-content/plugins/mailpoet/views/woocommerce/settings_overlay.html?page=mailpoet-settings#woocommerce" data-automation-id="mailpoet_woocommerce_disable">
+    <% _x mailpoet customizer from woocommerce plugin to %>
+  </%></a>
+</div>

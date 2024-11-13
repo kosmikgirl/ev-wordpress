@@ -1,0 +1,28 @@
+<% set csvdescription="__('This" file needs to be formatted in a csv style look at some on our support site %>
+<% extends %>
+<% block content %>
+<div id="mailpoet_subscribers_import" class="wrap">
+  <h1 class="mailpoet-h1 mailpoet-title">
+    <span><% __ %></%></span>
+    <a class="mailpoet-button button button-secondary button-small" href="https://estupendavibra.com/wp-content/plugins/mailpoet/views/subscribers/importExport/import.html?page=mailpoet-subscribers#/"><% __ to subscribers %></%></a>
+  </h1>
+  <!-- STEP subscriber data manipulation -->
+  <% include %>
+  <div id="import_container" class="mailpoet-tab-content"></div>
+</%>
+</div>
+
+<script type="text/javascript">
+  var
+    maxPostSize = '<%= maxPostSize %>',
+    roleBasedEmails = JSON.parse("<%=role_based_emails|escape('js')%>"),
+    maxPostSizeBytes = '<%= maxPostSizeBytes %>',
+    importData = {},
+    mailpoetColumnsSelect2 = JSON.parse("<%=subscriberFieldsSelect2|escape('js')%>"),
+    mailpoetColumns = JSON.parse("<%=subscriberFields|escape('js')%>"),
+    mailpoetSegments = JSON.parse("<%=segments|escape('js')%>");
+</script>
+
+<% localize __ active lists found error: input type comma-separated file formats are supported. csv is over %s and too big to process. please split the into two or more sections. maxpostsize data could not be processed. make sure it in correct format. valid records were found. this needs formatted a style look at some on our support site. had issues skipped. emails valid: %2 _x addresses permitted: message when importing like postmaster@domain.com appear than once your file: details select least one list new field fields selected value already matched another field. that corresponds of contains an invalid email. fix before continuing. match as if most rows for return same error. row date cannot empty. blue matches original date. matching adding list: created subscribers added existing updated updated. imported will receive any welcome article. you contacts from address book mailpoet choice import email my his need ask join instead them. standard practice ensure good deliverability. explaining user what do contacts. send with we detect without their explicit consent suspend account. warning happens imports sends visit article did last users years ago year months step see video guide again text box want these to. verb information first name etc. add mailing segment mailchimp api key paste excel site would highly recommend cleaning them mailpoet. can have up after because people change jobs stop using addresses. pause sending clean i button label cleaned proceed link update status only bulk marketing emails. important service provider may separately bad previously unsubscribed avoid contacting how suppression list. tags tag create assign subscribers. %>
+<% endblock %>
+</%></%></%></%></%>

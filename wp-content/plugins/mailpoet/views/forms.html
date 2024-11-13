@@ -1,0 +1,42 @@
+<% extends %>
+
+<% block content %>
+  <div id="forms_container"></div>
+
+  <div>
+    <p class="mailpoet_sending_methods_help help">
+      <% set allowedhtml="{'a':" %>
+      <% __>Tip: check out [link]this list[/link] of form plugins that integrate with MailPoet.')
+      |replaceLinkTags('https://kb.mailpoet.com/article/198-list-of-forms-plugins-that-work-with-mailpoet?utm_source=plugin&utm_medium=settings&utm_campaign=helpdocs', {'target': '_blank', id: 'mailpoet_helper_link'})
+      |wpKses(allowedHtml)
+      %>
+    </%></%></p>
+  </div>
+
+  <script type="text/javascript">
+    var mailpoet_listing_per_page = <%= items_per_page %>;
+    var mailpoet_segments = <%= json_encode(segments) %>;
+    var mailpoet_form_template_selection_url =
+      "<%= admin_url('admin.php?page=mailpoet-form-editor-template-selection') %>";
+    var mailpoet_form_edit_url =
+      "<%= admin_url('admin.php?page=mailpoet-form-editor&id=') %>";
+
+    var mailpoet_display_nps_poll = <%= json_encode(display_nps_survey) %>;
+
+    <%if display_nps_survey %>
+      var mailpoet_display_nps_form = true;
+      var mailpoet_current_wp_user = <%= json_encode(current_wp_user) %>;
+      var mailpoet_current_wp_user_firstname = '<%= current_wp_user_firstname %>';
+      var mailpoet_review_request_illustration_url = '<%= cdn_url('review-request/review-request-illustration.20190815-1427.svg') %>';
+    <%endif%>
+  </script>
+
+  <% localize __ forms... forms were found. why not create a new one permanently deleted. bulk action actions trash all active form is now activated page item items _x name for without in list choice: date was moved to the trash. has been restored from have duplicated. pages text on widget that leads settings placement bar type fixed slide pop-up it will be displayed small modal window of using theme are corrupted. please editor %>
+<% endblock %>
+
+<% block after_javascript %>
+<script type="text/javascript">jQuery('#mailpoet_helper_link').on('click', function() {
+    MailPoet.trackEvent('Forms page > link to doc page');
+  });</script>
+<% endblock %>
+</%></%></%></%></%></%>

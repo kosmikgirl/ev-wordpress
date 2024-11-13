@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Google\ApiCore\Testing\MockStubTrait&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/google-listings-and-ads/vendor/google/gax/src/Testing/MockTransport.php</b> on line <b>47</b><br>

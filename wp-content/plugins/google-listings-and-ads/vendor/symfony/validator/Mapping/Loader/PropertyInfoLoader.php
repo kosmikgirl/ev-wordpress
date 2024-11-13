@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Symfony\Component\Validator\Mapping\Loader\AutoMappingTrait&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/google-listings-and-ads/vendor/symfony/validator/Mapping/Loader/PropertyInfoLoader.php</b> on line <b>30</b><br>

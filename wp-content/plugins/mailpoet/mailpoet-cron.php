@@ -1,0 +1,1 @@
+You need to pass a WordPress root as an argument.

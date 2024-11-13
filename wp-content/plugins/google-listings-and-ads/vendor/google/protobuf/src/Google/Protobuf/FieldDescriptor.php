@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Google\Protobuf\Internal\GetPublicDescriptorTrait&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/google-listings-and-ads/vendor/google/protobuf/src/Google/Protobuf/FieldDescriptor.php</b> on line <b>15</b><br>

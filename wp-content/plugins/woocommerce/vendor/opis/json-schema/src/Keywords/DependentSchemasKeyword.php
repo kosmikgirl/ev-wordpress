@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Opis\JsonSchema\Keywords\OfTrait&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/woocommerce/vendor/opis/json-schema/src/Keywords/DependentSchemasKeyword.php</b> on line <b>27</b><br>
