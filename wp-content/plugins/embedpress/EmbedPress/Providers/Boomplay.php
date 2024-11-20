@@ -1,0 +1,1 @@
+No direct script access allowed. or EmbedPress is not loaded yet.
