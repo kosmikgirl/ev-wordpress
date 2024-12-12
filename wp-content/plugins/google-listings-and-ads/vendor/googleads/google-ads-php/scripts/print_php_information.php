@@ -32,7 +32,7 @@ hr {width: 934px; background-color: #ccc; border: 0; height: 1px;}</style>
 <table>
 <tr>
 <td class="e">System </td>
-<td class="v">Darwin MacBook-Pro-5.Home 22.1.0 Darwin Kernel Version 22.1.0: Sun Oct  9 20:15:52 PDT 2022; root:xnu-8792.41.9~2/RELEASE_ARM64_T8112 arm64 </td>
+<td class="v">Darwin MacBook-Pro-5.fibertel.com.ar 22.1.0 Darwin Kernel Version 22.1.0: Sun Oct  9 20:15:52 PDT 2022; root:xnu-8792.41.9~2/RELEASE_ARM64_T8112 arm64 </td>
 </tr>
 <tr>
 <td class="e">Build Date </td>
