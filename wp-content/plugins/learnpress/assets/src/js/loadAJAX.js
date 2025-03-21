@@ -2,7 +2,7 @@
  * Load all you need via AJAX
  *
  * @since 4.2.5.7
- * @version 1.0.3
+ * @version 1.0.4
  */
 
 import { lpAddQueryArgs, lpFetchAPI, listenElementCreated, lpOnElementReady } from './utils.js';
@@ -50,6 +50,29 @@ const lpAJAX = ( () => {
 
 			lpFetchAPI( url, option, callBack );
 		},
+		fetchAJAX: ( params, callBack, urlAjax = '' ) => {
+			// Call via ajax.
+			urlAjax = urlAjax || lpSettings.lpAjaxUrl;
+			if ( params.args.id_url ) {
+				urlAjax = lpAddQueryArgs( urlAjax, { id_url: params.args.id_url } );
+			}
+
+			const formData = new FormData();
+			formData.append( 'nonce', lpSettings.nonce );
+			formData.append( 'lp-load-ajax', 'load_content_via_ajax' );
+			formData.append( 'data', JSON.stringify( params ) );
+			const dataSend = {
+				method: 'POST',
+				headers: {},
+				body: formData,
+			};
+
+			if ( 0 !== parseInt( lpSettings.user_id ) ) {
+				dataSend.headers[ 'X-WP-Nonce' ] = lpSettings.nonce;
+			}
+
+			lpFetchAPI( urlAjax, dataSend, callBack );
+		},
 		getElements: () => {
 			// Finds all elements with the class '.lp-load-ajax-element'
 			const elements = document.querySelectorAll( '.lp-load-ajax-element:not(.loaded)' );
@@ -62,7 +85,12 @@ const lpAJAX = ( () => {
 					if ( lpSettings.urlParams.hasOwnProperty( 'lang' ) ) {
 						url = lpAddQueryArgs( url, { lang: lpSettings.urlParams.lang } );
 					}
+
 					const elTarget = element.querySelector( '.lp-target' );
+					if ( ! elTarget ) {
+						return;
+					}
+
 					const dataObj = JSON.parse( elTarget.dataset.send );
 					const dataSend = { ...dataObj };
 					const elLoadingFirst = element.querySelector( '.loading-first' );
@@ -88,7 +116,11 @@ const lpAJAX = ( () => {
 						},
 					};
 
-					window.lpAJAXG.fetchAPI( url, dataSend, callBack );
+					// Call via API
+					//window.lpAJAXG.fetchAPI( url, dataSend, callBack );
+
+					// Call via AJAX
+					window.lpAJAXG.fetchAJAX( dataSend, callBack );
 				} );
 			}
 		},

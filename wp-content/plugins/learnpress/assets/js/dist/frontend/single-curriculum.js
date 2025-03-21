@@ -18,7 +18,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _wordpress_api_fetch__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_wordpress_api_fetch__WEBPACK_IMPORTED_MODULE_1__);
 
 
-function lpMaterialsLoad(is_curriculum = false) {
+function lpMaterialsLoad() {
   // console.log('loaded');
   const Sekeleton = () => {
     const elementSkeleton = document.querySelector('.lp-material-skeleton');
@@ -31,39 +31,36 @@ function lpMaterialsLoad(is_curriculum = false) {
     getResponse(elementSkeleton);
   };
   const getResponse = async (ele, page = 1) => {
-    let itemID = 0;
-    if (is_curriculum) {
-      const elCurriculum = document.querySelector('.learnpress-course-curriculum');
-      if (!elCurriculum) {
-        return;
-      }
-      const itemId = elCurriculum.dataset.id;
-      itemID = itemId || 0;
-    } else {
-      itemID = lpGlobalSettings.post_id;
-    }
+    const course_id = parseInt(ele.dataset.courseId),
+      item_id = parseInt(ele.dataset.itemId);
+    const elListMaterial = ele.closest('.lp-list-material');
     const elementMaterial = ele.querySelector('.course-material-table');
     const loadMoreBtn = document.querySelector('.lp-loadmore-material');
     const elListItems = document.querySelector('.lp-list-material');
+    const elSkeleton = ele.querySelector('.lp-skeleton-animation');
     try {
       const response = await _wordpress_api_fetch__WEBPACK_IMPORTED_MODULE_1___default()({
-        path: (0,_wordpress_url__WEBPACK_IMPORTED_MODULE_0__.addQueryArgs)(`lp/v1/material/item-materials/${itemID}`, {
+        path: `lp/v1/material/by-item`,
+        data: {
+          course_id,
+          item_id,
           page
-        }),
-        method: 'GET'
+        },
+        method: 'POST'
       });
       const {
         data,
         status,
         message
       } = response;
+      if (elSkeleton) {
+        elSkeleton.remove();
+      }
       if (status !== 'success') {
-        return console.log(message);
+        elListMaterial.insertAdjacentHTML('beforeend', message);
+        return;
       }
       if (data.items && data.items.length > 0) {
-        if (ele.querySelector('.lp-skeleton-animation')) {
-          ele.querySelector('.lp-skeleton-animation').remove();
-        }
         elementMaterial.style.display = 'table';
         elementMaterial.querySelector('tbody').insertAdjacentHTML('beforeend', data.items);
       } else {
@@ -128,7 +125,12 @@ const lpModalOverlayCompleteItem = {
         const form = e.target.closest('form');
         _utils_lp_modal_overlay__WEBPACK_IMPORTED_MODULE_0__["default"].elLPOverlay.show();
         _utils_lp_modal_overlay__WEBPACK_IMPORTED_MODULE_0__["default"].setTitleModal(form.dataset.title);
-        _utils_lp_modal_overlay__WEBPACK_IMPORTED_MODULE_0__["default"].setContentModal('<div class="pd-2em">' + form.dataset.confirm + '</div>');
+        // ESC html
+        const div = document.createElement('div');
+        div.appendChild(document.createTextNode(form.dataset.confirm));
+        const contentModal = div.innerHTML;
+        // End ESC html
+        _utils_lp_modal_overlay__WEBPACK_IMPORTED_MODULE_0__["default"].setContentModal('<div class="pd-2em">' + contentModal + '</div>');
         _utils_lp_modal_overlay__WEBPACK_IMPORTED_MODULE_0__["default"].callBackYes = () => {
           form.submit();
         };
@@ -1200,7 +1202,7 @@ const init = () => {
 document.addEventListener('DOMContentLoaded', function (event) {
   LP.Hook.doAction('course-ready');
   _show_lp_overlay_complete_item__WEBPACK_IMPORTED_MODULE_2__["default"].init();
-  (0,_material__WEBPACK_IMPORTED_MODULE_4__["default"])(true);
+  (0,_material__WEBPACK_IMPORTED_MODULE_4__["default"])();
   //courseCurriculumSkeleton();
   //init();
 });

@@ -70,6 +70,10 @@
   background-color: #EBF8E5;
   color: #3AB500;
 }
+.learn-press-message.info {
+  background-color: rgba(0, 122, 255, 0.1019607843);
+  color: #007AFF;
+}
 .learn-press-message a {
   text-decoration: underline;
 }
@@ -604,6 +608,7 @@ ul .clearfix {
   border-radius: var(--lp-border-radius);
 }
 .ts-wrapper .ts-control .item {
+  margin: 0 8px 5px 0;
   padding: 3px 8px;
   background: #eee;
   border-radius: var(--lp-border-radius);
@@ -6018,8 +6023,8 @@ body.lp-item-moving {
   display: none;
   margin: 0 5px;
   color: #444;
-  font-size: 0.8em;
   font-style: normal;
+  font-weight: normal;
   line-height: 1;
   vertical-align: baseline;
   cursor: pointer;
@@ -6455,7 +6460,7 @@ table.lp-material--table tr:nth-child(even) {
 
 @font-face {
   font-family: "lp-icon";
-  src: url("https://estupendavibra.com/wp-content/plugins/learnpress/assets/src/css/vendor/fonts/lp-icon/lp-icon.ttf?v3eoq3") format("truetype"), url("https://estupendavibra.com/wp-content/plugins/learnpress/assets/src/css/vendor/fonts/lp-icon/lp-icon.woff?v3eoq4") format("woff"), url("https://estupendavibra.com/wp-content/plugins/learnpress/assets/src/css/vendor/fonts/lp-icon/lp-icon.svg?v3eoq4#lp-icon") format("svg");
+  src: url("https://estupendavibra.com/wp-content/plugins/learnpress/assets/src/css/vendor/fonts/lp-icon/lp-icon.woff2?v=182") format("woff2");
   font-weight: normal;
   font-style: normal;
   font-display: block;

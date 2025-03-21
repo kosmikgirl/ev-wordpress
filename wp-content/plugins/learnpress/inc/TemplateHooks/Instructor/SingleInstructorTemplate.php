@@ -1,2 +1,5 @@
 <br>
-<b>Fatal error</b>:  Trait &quot;LearnPress\Helpers\Singleton&quot; not found in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/learnpress/inc/TemplateHooks/Instructor/SingleInstructorTemplate.php</b> on line <b>24</b><br>
+<b>Fatal error</b>:  Uncaught Error: Class &quot;LearnPress\TemplateHooks\UserTemplate&quot; not found in /Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/learnpress/inc/TemplateHooks/Instructor/SingleInstructorTemplate.php:23
+Stack trace:
+#0 {main}
+  thrown in <b>/Users/julziten/Local Sites/estupendavibra/app/public/wp-content/plugins/learnpress/inc/TemplateHooks/Instructor/SingleInstructorTemplate.php</b> on line <b>23</b><br>

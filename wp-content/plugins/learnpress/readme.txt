@@ -2,10 +2,8 @@
 Contributors: thimpress, tungnx89, nhamdv, nguyenlammanh, tunnhn, phonglq.foobla, thongta, kendy73, leehld
 Donate link:
 Tags: elearning, education, course, lms, learning management system
-Requires at least: 6.0
-Tested up to: 6.6.2
-Requires PHP: 7.0
-Stable tag: 4.2.7.3
+Tested up to: 6.7
+Stable tag: 4.2.8.1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -13,37 +11,39 @@ A WordPress LMS Plugin to create WordPress Learning Management System. Turn your
 
 == Description ==
 
-**<a href="https://thimpress.com/learnpress/" target="_blank">WordPress LMS Plugin</a>** - LearnPress is a comprehensive *WordPress LMS Plugin* for WordPress. This is one of the best WordPress LMS Plugins which can be used to easily create & sell courses online. You can create a course curriculum with lessons & quizzes included which is managed with an easy-to-use interface for users. Having this WordPress LMS Plugin, now you have a chance to quickly and easily create education, online school, online-course websites with no coding knowledge required.
+LearnPress is a comprehensive *WordPress LMS Plugin* for WordPress. This is one of the best WordPress LMS Plugins which can be used to easily create & sell courses online. You can create a course curriculum with lessons & quizzes included which is managed with an easy-to-use interface for users. With our newest features, you can also sell your in-person classes and workshops using online payment gateways. Having this WordPress LMS Plugin, now you have a chance to quickly and easily create education, online school, online-course, offline-course websites with no coding knowledge required.
 
-<a href="https://edupress.thimpress.com" target="_blank">Live Demo</a> | <a href="https://docs.thimpress.com/learnpress/?utm_source=WPORG&utm_medium=LP&utm_campaign=Content" target="_blank">Documentation</a> | <a href="https://thimpress.com/forums/forum/learnpress-plugin/?utm_source=WPORG&utm_medium=LP&utm_campaign=Content" target="_blank">Support</a>
+<a href="https://edupress.thimpress.com" target="_blank">Live Demo</a> | <a href="https://docs.thimpress.com/learnpress/?utm_source=WPORG&utm_medium=LP&utm_campaign=Content" target="_blank">Documentation</a> | <a href="https://help.thimpress.com" target="_blank">Support</a>
 <a href="https://thimpress.com/product/education-wordpress-starter-theme-for-learnpress/?utm_source=WPORG&utm_medium=LP&utm_campaign=Content">Free LearnPress Theme</a>
-<a href="https://1.envato.market/G5Ook" target="_blank">LearnPress Themes</a>
+<a href="https://1.envato.market/G5Ook" target="_blank">Premium LearnPress Themes</a>
 <a href="https://thimpress.com/eduma-mobile-app/?utm_source=WPORG&utm_medium=LP&utm_campaign=Content" target="_blank">LearnPress Mobile App</a>
 <a href="https://thimpress.com/product/learnpress-pro/?utm_source=WPORG&utm_medium=LP&utm_campaign=Content" target="_blank">LearnPress PRO Bundle</a>
+<a href="https://www.figma.com/community/file/1444252888298116868/education-website-design-system-learnpress" target="_blank">Figma LearnPress UI Kit - Free Download</a>
 
-LearnPress is free and always will be, but it is still a premium high-quality WordPress Plugin that definitely helps you with making money from your **WordPress based LMS**. Also, LearnPress is highly recommended by WPML as the <strong><a href="https://wpml.org/plugin-functionality/lms/" target="_blank">Learning Management System Plugin for Multilingual Sites</a></strong>. Just try and see how amazing it is. LearnPress WordPress Online Course plugin is lightweight and super powerful with lots of Add-Ons to empower its core system.
+LearnPress is free and always will be, but it is still a premium high-quality WordPress Plugin that definitely helps you with making money from your **WordPress Based LMS**. Also, LearnPress is highly recommended by WPML as the <a href="https://wpml.org/plugin-functionality/lms/" target="_blank">Learning Management System Plugin for Multilingual Sites</a>. Just try and see how amazing it is. LearnPress WordPress Online Course plugin is lightweight and super powerful with lots of Add-ons to empower its core system.
 
 Highly recommended by LearnPress users, we are pleased to introduce you to our best Education WordPress Themes which have Premium LearnPress Add-Ons included already.
-> [Eduma | Education WordPress Theme](https://1.envato.market/G5Ook) (#1 Selling Education WordPress Theme).
-> [Coaching | Life & Fitness Coaching WordPress Theme](https://1.envato.market/Xq2Ra) (Rising Star).
-> [Course Builder | Online Course WordPress Theme](https://1.envato.market/13Zkd) (Potential).
 
-###ONLINE LMS & EDUCATION WORDPRESS THEMES###
+- [Eduma | Education WordPress Theme](https://1.envato.market/G5Ook) (#1 Selling Education WordPress Theme).
+- [Coaching | Life & Fitness Coaching WordPress Theme](https://1.envato.market/Xq2Ra) (Rising Star).
+- [Course Builder | Online Course WordPress Theme](https://1.envato.market/13Zkd) (Potential).
 
-Take a look at **[Premium Online LMS & Education WordPress Themes](https://1.envato.market/AoKx3D)** that are developed to work perfectly with LearnPress LMS WordPress Plugin. These incredible WordPress Themes are the best for your Online LMS & Education websites using LearnPress with the clean and modern design. From more than 50 demos, you can easily chose the most suitable one which fits your purpose and customize it as your style.
+###Online LMS & Education WordPress Themes###
 
-- **[Create a WordPress Udemy with Eduma](https://eduma.thimpress.com/demo-udemy/?utm_source=WPORG&utm_medium=LP&utm_campaign=Content)**
-- **[Create a WordPress Coursera with Eduma](https://eduma.thimpress.com/demo-coursera/?utm_source=WPORG&utm_medium=LP&utm_campaign=Content)**
+Take a look at **[Premium Online LMS & Education WordPress Themes](https://1.envato.market/AoKx3D)** that are developed to work perfectly with LearnPress LMS WordPress Plugin. These incredible WordPress Themes are the best for your Online LMS & Education websites using LearnPress with the clean and modern design. From more than 50 demos, you can easily choose the most suitable one which fits your purpose and customize it as your style.
 
-###LEARNPRESS MOBILE APP###
+- [Create a WordPress Udemy with Eduma](https://eduma.thimpress.com/demo-udemy/?utm_source=WPORG&utm_medium=LP&utm_campaign=Content)
+- [Create a WordPress Coursera with Eduma](https://eduma.thimpress.com/demo-coursera/?utm_source=WPORG&utm_medium=LP&utm_campaign=Content)
+
+###LearnPress Mobile App###
 
 **[LearnPress Mobile App](https://thimpress.com/eduma-mobile-app/?utm_source=WPORG&utm_medium=LP&utm_campaign=LPMA)**  is an LMS Mobile App for iOS & Android built with React Native Technology. If you have Online Education & LMS websites using WordPress Themes or LearnPress Plugin, LearnPress Mobile App supports you to convert your current websites to LMS Mobile App easily. Your LMS Mobile App will be on both App Store and Google Play Store. All courses will be synced immediately between your Online Education & LMS Website and your LMS Mobile App. This LMS Mobile App brings to your students a new learning experience when they can manage and track their courses as well as instructors.
 
 ###LearnPress Tutorials###
 
-- **[How to create an Udemy or Coursera clone easily with LearnPress](https://thimpress.com/create-udemy-coursera-clone-easily-learnpress/?utm_source=WPORG&utm_medium=LP&utm_campaign=Content)**
-
-- Step-by-step YouTube guide on setting up your own Online Course site. **[Click here >>](https://www.youtube.com/watch?v=0mJBC9IpiS0)**
+- [LearnPress Tutorials](https://docs.thimpress.com/learnpress/)
+- How to create an Udemy or Coursera clone easily with LearnPress [Click here >>](https://thimpress.com/create-udemy-coursera-clone-easily-learnpress/?utm_source=WPORG&utm_medium=LP&utm_campaign=Content)
+- Step-by-step YouTube guide on setting up your own Online Course site. [Click here >>](https://www.youtube.com/watch?v=0mJBC9IpiS0)
 [youtube https://www.youtube.com/watch?v=0mJBC9IpiS0]
 
 Are you looking for *the best LMS WordPress Plugin*?
@@ -64,7 +64,13 @@ You can also export and import your courses to another website using LearnPress.
 With the course you've created, you can share it, manage it, watch statistic about the number of students, trends, etc.
 
 **Sell course**
-LearnPress is free but it still allows you to sell your courses with many billing methods supported such as PayPal, WooCommerce, Stripe, etc.
+LearnPress is free, but it still allows you to sell your courses with many billing methods supported such as PayPal, WooCommerce, Stripe, etc.
+
+**Offline course features**
+LearnPress comes with extensive offline course features. If offline courses are active, some online course features like Curriculum, End Button, Retake Course, Content Blocking, and Repurchase will be disabled by default.
+Instead, LearnPress adds offline course-specific features, including a custom course details page with information like Delivery Type, Location, Schedule, Start Date, and more.
+These features are perfect for educators, training centers, and institutions offering blended learning or complete offline programmes, providing proper management.
+With LearnPress offline course features, you also have an easily customizable in built page for offline courses that comes with a responsive and search engine friendly modern UI/UX, that is designed specifically to attract and retain local learners.
 
 **Communicate with your students**
 BuddyPress makes it easier for you to communicate with your students or instructors via the WordPress forum. Studying, making friends and having fun.
@@ -73,7 +79,7 @@ BuddyPress makes it easier for you to communicate with your students or instruct
 Add-ons are used to provide extra features for LearnPress and you can also write your own add-on for more purposes.
 
 **LearnPress is free and always will be**
-Education should be free and we want you to bring it to as many people as you can. Therefore, we create LearnPress as a tool for you to create online course and share it. We'll continue to develop it as long as we can and make it better and better.
+Education should be free, and we want you to bring it to as many people as you can. Therefore, we create LearnPress as a tool for you to create online course and share it. We'll continue to develop it as long as we can and make it better and better.
 
 **LearnPress is actively developed**
 We are developing and improving LearnPress day by day and bringing you more new features cos we want LearnPress to become the **best WordPress LMS plugin**.
@@ -199,16 +205,96 @@ https://www.transifex.com/projects/p/learnpress/
 
 == Screenshots ==
 
-1. Curriculum - Drag and Drop lesson or quiz.
-2. Lesson content.
-3. Quiz preview.
-4. General settings.
-5. Quiz settings.
-6. Email settings.
-7. Demo course page.
-8. Add-ons of LearnPress.
+1. Course Layout: A visually engaging way to explore your courses. Easily scan multiple courses by filters and sorts, with vibrant images, brief descriptions and CTA button
+2. Online Course Detail: Clean & thoughtfully structured layout features a dynamic course overview, detailed sections, curriculum, instructor information and more to help make decision quicker
+3. In-person Course Detail: Promote and sell your in-person courses with linear presentation, customizable CTA buttons and smooth check-out process
+4. Payment Methods: By free LearnPress plugin, you can sell your course at no cost using our default payment methods and easily enhance your options by adding premium payment gateways as needed
+5. Learning Experience: Dive into engaging lessons, interactive media rich & streamlined text-focused content and keep track on your progress from start to finish
+6. Quiz: Challenge your learners with dynamic format quizzes having instant feedback to reinforce learning while keeping learners motivated
+7. Assignment: Put your knowledge to the test with hands-on assignment
+8. Certificate: Provide professional and customizable certificate to showcase your student's achievement .jpg
+9. Dashboard: Stay organized with a personalized overview of your progress, quiz & assignment achievement, and completed courses
+10. Upsell: Offer different pricing strategies to help you monetize your course more effectively
+11. Mobile Responsive: Immersive learning experience anywhere, anytime on multiple devices
+12. Create Course: Simple, efficient and quick way to build your course and share your knowledge to the world
+13. Add-ons: Unlock endless possibilities with our add-ons from additional payment gateways to more managing course options. Tailor to your needs and easily scale as your site grow
 
 == Changelog ==
+
+= 4.2.8.1 (2025-03-12) =
+~ Hot fix: error Curriculum with old data.
+~ Update: currencies list.
+
+= 4.2.8 (2025-03-06) =
+~ Apply the new curriculum layout for a single course, screen item learning, and apply it to the premium themes.
+~ Optimize: some duplicate query.
+~ Fixed: course protected on single course layout Modern.
+~ Fixed: continue button has character "?" when redirect to item.
+~ Fixed: error get option "evaluate final quiz".
+~ Tweak: logic search item content for the course on screen item learning.
+~ Tweak: sort the newest item learning first on the screen tab "My courses" - Profile.
+~ Tweak: crop image course by "Thumbnail dimensions".
+
+= 4.2.7.9 (2025-02-24) =
+~ Fixed: error 404 single course with struct permalink is "%course_category%".
+~ Show error message response from PayPal if exists.
+~ Tweak: UserModel class, get_display_name method, with case translate.
+~ Added: hook "learn-press/user-lesson/completed" when completed lesson.
+~ Added: option Store IP Guest to handle checkout with case can't read $_COOKIE from server.
+~ LP_Gateways: tweak init method, allow load gateway instanceof LP_Gateway_Abstract.
+~ Update some text missing text domain.
+~ Tweak: isRestApiLP method REST prefix.
+
+= 4.2.7.8 (2025-02-17) =
+~ Fixed: send email when user finished course.
+~ Fixed: error PayPal payment can't verify transaction.
+~ Fixed: error change author when edit course.
+~ Tweak: Guest buy/enroll course, login via checkout.
+~ Tweak: course section, question CURD.
+
+= 4.2.7.7 (2025-02-08) =
+~ Fixed: some hosting error 403 when load list courses, complete lesson request.
+~ Fixed: sitemap 404 with items course.
+
+= 4.2.7.6 (2025-02-05) =
+~ Fixed: security.
+~ Fixed: error 404-Page Order received after checkout.
+~ Fixed: error 404-Page Profile sub-page.
+~ Optimize: speed load list courses.
+~ Added: option choose "Layout single course (Modern/Classic)".
+~ Added: option "Curriculum display" (currently apply for layout Modern).
+~ Added: new Modern layout for Single Course.
+~ Added: exclude from search via ?s= for lesson, quiz, order.
+~ Refactor code handle Quiz.
+~ Tweak: layout Single Instructor (change struct layout, display cover image, link edit if exists).
+~ Tweak: courses filter for mobile.
+~ Tweak: layout course offline for mobile.
+~ Allow: display html content on Offline Payment.
+~ Allow: change multiple instructors via Bulk Edit.
+
+= 4.2.7.5.1 (2025-01-22) =
+~ Fixed: security.
+~ Fixed: minor bugs.
+
+= 4.2.7.5 (2024-12-17) =
+~ Added: option Price prefix, Price suffix for course.
+~ Fixed: shortcode [learn_press_button_course].
+~ Fixed: error status item's course, case option course set "no require enroll" (user enrolled).
+~ Fixed: error lose tab on Profile when install SiteOrigin plugin.
+~ Updated: library TomSelect, ChartJS to the latest.
+
+= 4.2.7.4 (2024-12-03) =
+~ Fixed: image cover profile with theme Twenty Five.
+~ Fixed: error some sites not show notes(Waring) on the Admin Dashboard.
+~ Fixed: security.
+~ Tweak order show material on the item lesson.
+~ Tweak load text domain compatible with WP 6.7 and later.
+~ Tweak: format_human_time_diff method.
+~ Tweak: UserItemModel, UserCourseModel, UserModel, CourseModel  classes.
+~ Deprecated: get_info_extra_for_fast_query method.
+~ Deprecated: _learn_press_usort_terms_by_ID, learn_press_course_item_format_exclude, learn_press_get_course_curriculum, learn_press_is_enrolled_course, learn_press_get_user_course_statuslearn_press_is_free_course, learn_press_course_enroll_required, learn_press_search_post_excerpt, learn_press_course_add_support_item_type, learn_press_course_add_support_item_type, learn_press_get_user_question_answer, need_to_updating, learn_press_get_course_sections, lean_press_get_course_sections, learn_press_get_course_item_url, learn_press_edit_item_link, learn_press_get_course_results_tooltip.
+~ Set cache get instructors API for App.
+~ Added: get_i18n_string_plural method on the class LP_Helper.
 
 = 4.2.7.3 (2024-11-12) =
 ~ Fixed: error course private admin/author can't see on the frontend.
@@ -250,36 +336,5 @@ https://www.transifex.com/projects/p/learnpress/
 ~ Fixed: error create new section not send section_order.
 ~ Fixed: case search LP orders by user.
 ~ Fixed: error sort by total on list orders.
-
-= 4.2.6.9.4 (2024-08-07) =
-~ Fixed: security.
-
-= 4.2.6.9.3 (2024-08-02) =
-~ Tweak: added courses to LP Order manual.
-~ Tweak: list orders status trash.
-~ Tweak: message out of stock, no enroll requirement.
-~ Fixed: material lesson display with case no enroll requirement.
-~ Fixed: error not show email on Order detail when buy with Guest.
-~ Fixed: error can't remove empty fields on "Extra Information" options.
-~ Fixed: error clean break row (\n) on "Featured review" option.
-~ Fixed: query Statistics by role.
-~ Fixed: error max student when user bought.
-~ Fixed: case no enroll requirement with course price.
-~ Remove: jquery-ui-timepicker-addon jquery library.
-
-= 4.2.6.9.2 (2024-07-25) =
-~ Fixed: error lose section when update section of course.
-
-= 4.2.6.9.1 (2024-07-24) =
-~ Fixed: error check paths override of theme.
-
-= 4.2.6.9 (2024-07-24) =
-~ Fixed: security.
-~ Optimize courses.
-~ Create table learnpress_courses from posts to query faster.
-~ Tweak: choose users when create manual LP Order.
-~ Tweak: filed search instructor on list courses, orders, lessons, quizzes,...
-~ Tweak: get options list author via API when edit courses (make edit load screen edit courses faster).
-~ Fixed: show tab material with course no require enroll.
 
 <a href="https://raw.githubusercontent.com/LearnPress/learnpress/develop/changelog.txt" target="_blank">See changelog for all versions.</a>

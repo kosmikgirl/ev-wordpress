@@ -18,7 +18,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _wordpress_api_fetch__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_wordpress_api_fetch__WEBPACK_IMPORTED_MODULE_1__);
 
 
-function lpMaterialsLoad(is_curriculum = false) {
+function lpMaterialsLoad() {
   // console.log('loaded');
   const Sekeleton = () => {
     const elementSkeleton = document.querySelector('.lp-material-skeleton');
@@ -31,39 +31,36 @@ function lpMaterialsLoad(is_curriculum = false) {
     getResponse(elementSkeleton);
   };
   const getResponse = async (ele, page = 1) => {
-    let itemID = 0;
-    if (is_curriculum) {
-      const elCurriculum = document.querySelector('.learnpress-course-curriculum');
-      if (!elCurriculum) {
-        return;
-      }
-      const itemId = elCurriculum.dataset.id;
-      itemID = itemId || 0;
-    } else {
-      itemID = lpGlobalSettings.post_id;
-    }
+    const course_id = parseInt(ele.dataset.courseId),
+      item_id = parseInt(ele.dataset.itemId);
+    const elListMaterial = ele.closest('.lp-list-material');
     const elementMaterial = ele.querySelector('.course-material-table');
     const loadMoreBtn = document.querySelector('.lp-loadmore-material');
     const elListItems = document.querySelector('.lp-list-material');
+    const elSkeleton = ele.querySelector('.lp-skeleton-animation');
     try {
       const response = await _wordpress_api_fetch__WEBPACK_IMPORTED_MODULE_1___default()({
-        path: (0,_wordpress_url__WEBPACK_IMPORTED_MODULE_0__.addQueryArgs)(`lp/v1/material/item-materials/${itemID}`, {
+        path: `lp/v1/material/by-item`,
+        data: {
+          course_id,
+          item_id,
           page
-        }),
-        method: 'GET'
+        },
+        method: 'POST'
       });
       const {
         data,
         status,
         message
       } = response;
+      if (elSkeleton) {
+        elSkeleton.remove();
+      }
       if (status !== 'success') {
-        return console.log(message);
+        elListMaterial.insertAdjacentHTML('beforeend', message);
+        return;
       }
       if (data.items && data.items.length > 0) {
-        if (ele.querySelector('.lp-skeleton-animation')) {
-          ele.querySelector('.lp-skeleton-animation').remove();
-        }
         elementMaterial.style.display = 'table';
         elementMaterial.querySelector('tbody').insertAdjacentHTML('beforeend', data.items);
       } else {
@@ -128,7 +125,12 @@ const lpModalOverlayCompleteItem = {
         const form = e.target.closest('form');
         _utils_lp_modal_overlay__WEBPACK_IMPORTED_MODULE_0__["default"].elLPOverlay.show();
         _utils_lp_modal_overlay__WEBPACK_IMPORTED_MODULE_0__["default"].setTitleModal(form.dataset.title);
-        _utils_lp_modal_overlay__WEBPACK_IMPORTED_MODULE_0__["default"].setContentModal('<div class="pd-2em">' + form.dataset.confirm + '</div>');
+        // ESC html
+        const div = document.createElement('div');
+        div.appendChild(document.createTextNode(form.dataset.confirm));
+        const contentModal = div.innerHTML;
+        // End ESC html
+        _utils_lp_modal_overlay__WEBPACK_IMPORTED_MODULE_0__["default"].setContentModal('<div class="pd-2em">' + contentModal + '</div>');
         _utils_lp_modal_overlay__WEBPACK_IMPORTED_MODULE_0__["default"].callBackYes = () => {
           form.submit();
         };
@@ -878,6 +880,93 @@ const lpModalOverlay = {
 
 /***/ }),
 
+/***/ "./assets/src/js/frontend/copy-to-clipboard.js":
+/*!*****************************************************!*\
+  !*** ./assets/src/js/frontend/copy-to-clipboard.js ***!
+  \*****************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ CopyToClipboard)
+/* harmony export */ });
+function LPClick(element, iconBtn, inner) {
+  const wrappers = document.querySelectorAll(element);
+  if (!wrappers.length) {
+    return;
+  }
+  wrappers.forEach(wrapper => {
+    const clickBtn = wrapper.querySelector(iconBtn);
+    const class_open = element.replace('.', '') + '__open';
+    const closeElement = wrapper.querySelector(element + '__close');
+    const isOpenElement = () => wrapper.classList.contains(class_open);
+    const showElement = () => {
+      if (!isOpenElement()) {
+        wrapper.classList.add(class_open);
+      }
+    };
+    const hideElement = () => {
+      if (isOpenElement()) {
+        wrapper.classList.remove(class_open);
+      }
+    };
+    const toggleElement = () => {
+      if (isOpenElement()) {
+        hideElement();
+      } else {
+        showElement();
+      }
+    };
+    const onKeyDown = e => {
+      if (e.keyCode === 27) {
+        hideElement();
+      }
+    };
+    if (clickBtn) {
+      clickBtn.onclick = function (e) {
+        e.preventDefault();
+        toggleElement();
+      };
+    }
+    document.addEventListener('click', e => {
+      if (!isOpenElement()) {
+        return;
+      }
+      const target = e.target;
+      if (target.closest(inner) || target.closest(iconBtn)) {
+        return;
+      }
+      hideElement();
+    });
+    if (closeElement) {
+      closeElement.addEventListener('click', e => {
+        e.preventDefault();
+        hideElement();
+      });
+    }
+    document.addEventListener('keydown', onKeyDown, false);
+  });
+}
+function CopyToClipboard() {
+  LPClick('.social-share-toggle', '.share-toggle-icon', '.content-widget-social-share');
+  var copyTextareaBtn = document.querySelector('.btn-clipboard');
+  if (copyTextareaBtn) {
+    copyTextareaBtn.addEventListener('click', function (event) {
+      var copyTextarea = document.querySelector('.clipboard-value');
+      copyTextarea.focus();
+      copyTextarea.select();
+      try {
+        var successful = document.execCommand('copy');
+        var msg = copyTextareaBtn.getAttribute('data-copied');
+        copyTextareaBtn.innerHTML = msg + '<span class="tooltip">' + msg + '</span>';
+      } catch (err) {}
+    });
+  }
+}
+
+/***/ }),
+
 /***/ "./assets/src/js/utils.js":
 /*!********************************!*\
   !*** ./assets/src/js/utils.js ***!
@@ -891,6 +980,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   listenElementViewed: () => (/* binding */ listenElementViewed),
 /* harmony export */   lpAddQueryArgs: () => (/* binding */ lpAddQueryArgs),
 /* harmony export */   lpAjaxParseJsonOld: () => (/* binding */ lpAjaxParseJsonOld),
+/* harmony export */   lpClassName: () => (/* binding */ lpClassName),
 /* harmony export */   lpFetchAPI: () => (/* binding */ lpFetchAPI),
 /* harmony export */   lpGetCurrentURLNoParam: () => (/* binding */ lpGetCurrentURLNoParam),
 /* harmony export */   lpOnElementReady: () => (/* binding */ lpOnElementReady),
@@ -2242,6 +2332,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var toastify_js__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! toastify-js */ "./node_modules/toastify-js/src/toastify.js");
 /* harmony import */ var toastify_js__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(toastify_js__WEBPACK_IMPORTED_MODULE_9__);
 /* harmony import */ var toastify_js_src_toastify_css__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! toastify-js/src/toastify.css */ "./node_modules/toastify-js/src/toastify.css");
+/* harmony import */ var _js_frontend_copy_to_clipboard_js__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../../../js/frontend/copy-to-clipboard.js */ "./assets/src/js/frontend/copy-to-clipboard.js");
+
 
 
 
@@ -2536,12 +2628,16 @@ const courseProgress = () => {
     [...elements].map(ele => eleObserver.observe(ele));
   }
   const getResponse = async ele => {
+    let url = 'lp/v1/lazy-load/course-progress';
+    if (lpData.urlParams.hasOwnProperty('lang')) {
+      url += '?lang=' + lpData.urlParams.lang;
+    }
     const response = await wp.apiFetch({
-      path: 'lp/v1/lazy-load/course-progress',
+      path: url,
       method: 'POST',
       data: {
         courseId: lpGlobalSettings.post_id || '',
-        userId: lpGlobalSettings.user_id || ''
+        userId: lpData.user_id || ''
       }
     });
     const {
@@ -2616,6 +2712,7 @@ document.addEventListener('DOMContentLoaded', function () {
   (0,_material__WEBPACK_IMPORTED_MODULE_6__["default"])();
   //courseCurriculumSkeleton();
   (0,_tabs_scroll__WEBPACK_IMPORTED_MODULE_7__["default"])();
+  (0,_js_frontend_copy_to_clipboard_js__WEBPACK_IMPORTED_MODULE_11__["default"])();
 });
 const detectedElCurriculum = setInterval(function () {
   const elementCurriculum = document.querySelector('.learnpress-course-curriculum');
