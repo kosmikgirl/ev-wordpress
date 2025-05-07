@@ -24,3 +24,13 @@ Version: 1.0
 .lottie-player {
     margin: 0 auto;
 }
+
+
+#header-outer.transparent.dark-slide .slide-out-widget-area-toggle a i.label,
+#header-outer.transparent.dark-slide .slide-out-widget-area-toggle a i.lines-button {
+	color: #FFFFFF !important;
+}
+
+#header-outer.transparent.dark-slide > #top nav ul .slide-out-widget-area-toggle a .lines-button i:after, #header-outer.transparent.dark-slide > #top nav ul .slide-out-widget-area-toggle a .lines-button i:before, #header-outer.transparent.dark-slide > #top nav ul .slide-out-widget-area-toggle .lines-button:after, .transparent.dark-slide .left-aligned-ocm .lines-button i:before, .transparent.dark-slide .left-aligned-ocm .lines-button i:after, .transparent.dark-slide .left-aligned-ocm .lines-button:after, body.marterial #header-outer.transparent.dark-slide > #top nav .slide-out-widget-area-toggle a .close-line, body #header-outer[data-permanent-transparent="1"].transparent.dark-slide > #top .span_9 > .slide-out-widget-area-toggle.mobile-icon .lines-button:after, body #header-outer[data-permanent-transparent="1"].transparent.dark-slide > #top .span_9 > .slide-out-widget-area-toggle.mobile-icon .lines:before, body #header-outer[data-permanent-transparent="1"].transparent.dark-slide > #top .span_9 > .slide-out-widget-area-toggle.mobile-icon .lines:after, #header-outer[data-lhe="animated_underline"].transparent.dark-slide .nectar-header-text-content a:after {
+    background-color: #ffffff !important;
+}
