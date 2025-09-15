@@ -127,13 +127,18 @@ const Edit = props => {
         target: value
       });
     }
-  }) : '')), (0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)("div", {
+  }) : '')), props.attributes.isLink ? (0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)(TagName, {
     ...blockProps
-  }, (0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)(TagName, {
+  }, (0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)("a", {
     dangerouslySetInnerHTML: {
       __html: courseTitle
     }
-  })));
+  })) : (0,react__WEBPACK_IMPORTED_MODULE_0__.createElement)(TagName, {
+    ...blockProps,
+    dangerouslySetInnerHTML: {
+      __html: courseTitle
+    }
+  }));
 };
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Edit);
 
@@ -181,7 +186,10 @@ const checkTemplatesCanLoadBlock = (templates, metadata, callBack) => {
     const metaDataNew = {
       ...metadata
     };
-    const store = (0,_wordpress_data__WEBPACK_IMPORTED_MODULE_1__.select)('core/editor');
+    const store = (0,_wordpress_data__WEBPACK_IMPORTED_MODULE_1__.select)('core/editor') || null;
+    if (!store || typeof store.getCurrentPostId !== 'function' || !store.getCurrentPostId()) {
+      return;
+    }
     const currentPostId = store.getCurrentPostId();
     if (currentPostId === null) {
       return;
@@ -397,7 +405,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const templatesName = ['learnpress/learnpress//single-lp_course'];
+const templatesName = ['learnpress/learnpress//single-lp_course', 'learnpress/learnpress//single-lp_course-offline'];
 
 /**
  * Check if the block can load in the template editor: single-lp_course.
